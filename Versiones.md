@@ -1,0 +1,43 @@
+# Versiones & Cangelog
+
+* __Ver 1__ [PDF][1]
+	- Libretas escritas en papel y escaneadas, 12 Enero 2023 a 4 Enero 2025
+* __Ver 2__ [PDF][2]
+	- Agregado temario al final del documento, 5 Enero 2025
+* __Ver 3__ [PDF][3]
+	- Temario con hipervínculos, 9 Enero - 16 Noviembre 2025
+	
+[1]: https://drive.google.com/file/d/1Ee8vjQEsjw6FaN6Bn9-xf1XF04mAJQgb/view?usp=sharing
+[2]: https://drive.google.com/file/d/1dlE8j0WvyoHPHkcBNlUkPgrlR5G9ac8p/view?usp=sharing
+[3]: https://drive.google.com/file/d/1IDB0Tk22WWDwWbG-eVCEteD-S2IeHfkJ/view?usp=sharing
+
+* __Ver 4__ actualmente en progreso... 
+	- Transcribiendo imágenes a texto manualmente: (305 pág totales)
+		* Progreso manual   2%, 16 Noviembre 2025
+		* Progreso manual   5%, 18 Noviembre 2025
+		* Progreso manual 13%, 19 Noviembre 2025
+		* Progreso manual 20%, 24 Noviembre 2025
+		* Progreso manual 25%, 28 Noviembre 2025
+	- Transcribiendo imágenes a texto automáticamente: 
+		* Creación de Script de automatización,  3-4 Abril 2026
+		* Test y debugging de Script,                     10 Abril 2026
+		* Progreso automatizado  36%,  11 Abril 2026
+		* Progreso automatizado 100%, 12 Abril 2026
+	- Implementación de transcripción a documento: 
+		* Progreso manual     24%, 13 Abril 2026
+		* Progreso manual     77%, 14 Abril 2026
+		* Progreso manual   100%, 15 Abril 2026
+	- Corrección Manual: 
+		* Progreso manual     0%, 16 Abril 2026
+
+
+* __Ver 5__ Próximamente:
+	
+	* Ordenar por materias
+	* Agregar material adicional / multimedia
+	* Agregar Introducción
+	* Agregar Temas faltantes de 2020-2022
+
+* __Ver 6__ Próximamente:
+	
+	* Desarrollo de temas, agregar explicaciones en lugar de solo apuntes
