@@ -1,0 +1,14 @@
+Poliacordes de 4 notas cada uno (upper structure)
+
+Ab/F7: Ab, C, Eb, Gb
+C/Bb7: C, Eb, Gb, Bb
+F7#9 (Ab/F7): F, A, C#, Eb
+Bb7#11 (C/Bb7): Bb, D, E, Ab
+
+Coupling vientos a metales
+
+Ene 2 LM
+Tutti: Gm7 (b5) -> C7 (b9) -> F7#9 -> Bb7(#11)
+Diatonico, Parallele, Dominante, Cromatismo
+
+Coupling Sax melody (TP 2)

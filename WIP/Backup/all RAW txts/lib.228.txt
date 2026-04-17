@@ -1,0 +1,44 @@
+Ejemplos voicings Jonicos y Dóricos
+
+Jonico Cmaj7 F07 9,13
+C Cmaj7 Eb Ab/C C6
+(Dibujo de notas musicales)
+
+Dorico Dm7 D5% Dsus4
+Dm7 Dm7 Dsus4 Dsus4
+(Dibujo de notas musicales)
+
+Dorico Cmf (Cm6) C49,13
+
+Afinación de resonador de Helmholtz
+
+From 2000 Hz RT60
+Freq de cuarto (v-volumen)
+de esta freq para absorver
+usa Helmholtz
+de forma activa
+absorber
+(Dibujo de ondas sonoras)
+frecuencia -> Hz
+from
+
+RT60 control < RT60 Live Room
+RT60 control < RT60 Live Room
+RT60 control < RT60 Live Room
+
+RT60 antes
+RT60 después
+Propuesta de tratamiento
+Diseño de Helmholtz
+Absorción de DRL/DRD
+RT60 antes
+RT60 después
+
+RT60 control < RT60 Live Room
+RT60 control < RT60 Live Room
+RT60 control < RT60 Live Room
+
+El usuario decide cuando
+RT60 quiere
+la mitad del volumen
+tratamiento para evitar otros

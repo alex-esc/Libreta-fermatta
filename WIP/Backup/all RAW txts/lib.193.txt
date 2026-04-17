@@ -1,0 +1,36 @@
+Introducción a la Orquestación
+
+Orquestación
+instrumentos / orquestra
+(conocer)    (plan para orquesta)
+instrumentación (instrumentación)
+
+- Instrumentos
+  (instrumentos)
+  (corrientes de instrumentos (tema expresivo))
+  (línea melódica (que vimos?))
+  (composición expresiva)
+  (improvisación)
+
+- Orquesta sinfónica (made in USA)
+  (vientos (madera y metal))
+  (percusión (de instrumentos de percusión))
+    (perc mayor (timbal))
+    (perc menor (tambor))
+  (cuerdas (instrumentos de cuerda pulsada))
+
+Texturas Orquestales
+
+- textura orquestal
+  * combinar Inst. de la misma familia
+  * equilibrar dinámicas en conjunto
+  * partes similares de Inst. en conjunto
+  * dividir partes de Inst. con registro cercano
+  * evitar un timbre parecido a otro
+
+Tipos de textura:
+* Monofonía: Una Melodía
+* Homofonía: Melodía + acompañamiento
+* Polifonía: Múltiples melodías
+* Melodía acompañada: voz
+* Heterofonía: combinación de las melodías

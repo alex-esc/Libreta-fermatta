@@ -1,0 +1,24 @@
+Ref
+dBg = 0.775 volts
+
+approx
+15 dB -> Power Amp -> 8 dB
+200 W @ 8 Ohm
+(2 volts IN) (20 * log(2 / 0.775) = 8 dB
+
+(-15 dB) + 8 dB -> Cuanto en Watts?)
+-23 = 10 * log(Xw / 200W) = 10^(-23/10) * 200 = 1.002 W
+
+Nivel de Mic y Nivel de linea en volts
+Nivel Mic = 0.001 volt
+Nivel Linea = 3 volt
+
+Ejemplo de cálculo de ganancia
+Ejemplo
+F -> mic -> Pre -> Ch Fader -> Bus -> Master Fader
+12m -> -46 dB -> +54 dB -> -3 dB -> -2 dB
+98 dB SPL @ 3m @ 4m
+
+Control Room Fader -> Power Amp -> 4 Ohm -> 0.3D
+200W @ 8 Ohm
+-10 dB

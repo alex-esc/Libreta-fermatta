@@ -1,0 +1,41 @@
+Escritura lineal (solis y voicings no mecánicos)
+
+LM GENE
+Line writing
+
+x L x
+
+voicings
+mecanos)
+-drop2
+-drop3
+-drop2-3
+-drop2-4
+
+no
+meccus
+-curtal
+-spread
+-upper structure
+-spread
+-clusters
+
+correc target notes(s)
+con lo que se corren
+los puntos
+
+x [simbolos musicales] x
+
+se permiten cromatismos, usar chord-seq
+del momento, etc...
+
+target curtal
+
+[Tabla de acordes]
+A: Emaj7 C7 B7 Bb7 Ab7 Db7 Eb7#11 Bb7#11
+B: [simbolos musicales]
+T: [simbolos musicales]
+TP: [simbolos musicales]
+Tb: [simbolos musicales]
+
+Pag 125

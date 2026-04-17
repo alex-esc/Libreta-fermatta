@@ -1,0 +1,25 @@
+Tipos de Bajo y afinación
+
+If May
+Bass: el sonido amado
+
+modelo / tipo de bajo
+- Pasivo: circuito simple, bajo 60-70s, Punchy
+- Activo: Preamp & Boost, amplificando freq
+
+Cuerdas
+4 string: E A D G
+5 string: B E A D G
+6 string: B E A D G C
+
+Upright Bass: E A D G
+
+EQ de bajos
+
+Bass EQ
+- 40Hz low end: 40-80
+- 80/100 Hz: thomp?
+- 400 - 800Hz: presencia en Boxy mas
+- 1kHz: tono / afinación
+- 4kHz: ataque / DEF
+- 8kHz: slap

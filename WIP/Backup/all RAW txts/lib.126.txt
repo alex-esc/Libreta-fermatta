@@ -1,0 +1,9 @@
+Ionización
+
+(Ion/Ionización)
+
+agregar o remover un elctron de un atomo (que natural es neutro)
+
+catodo carga +
+neutro carga neutra
+anodo carga -

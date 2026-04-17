@@ -1,0 +1,23 @@
+Re-Armonización, resolver al 1er grado al final
+
+Nov 28 LM Re-Harm
+
+Imaj7: al final de una obra (despues de un V7) sucede este
+caso. Casi siempre.
+
+Reharm -> Imajo (I 3 6)
+-> Imaj7#
+
+Cuando se altere 1/2 tono se puede obtener una cancion
+(SUB) -> como un sub.
+
+Esto es cuando la melodia es el 3ro o el 7mo grado
+
+Cmaj7 -> Db maj7
+
+D Db7
+D Db7#11
+
+Imaj7#S: Cuando la melodia contiene la 3ra o 7ma
+puede aparecer como un tritono con disminucion de 3ra
+E/b. Estos tienden a resolver 1/2 tono ascendente

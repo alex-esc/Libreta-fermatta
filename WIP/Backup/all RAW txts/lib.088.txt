@@ -1,0 +1,20 @@
+Gain Stage (cont.)
+
+continuacion de formulas (Gainstage)
+
+AMP -> xdB IN -> xdB entrega -> 20 log( "n" volts IN / 0.775v ) <- Ref
+      -> "X" watts  Ref X  en specs
+      -> "n" volts (input) en specs
+
+xdb IN diferencia con xdB entrega
+    - ( xdB In + xdB entrega ) = Dif IN/OUT
+      ^
+      Siempre es negativo
+
+Dif IN/OUT =
+
+Dif IN/OUT = 10 log( watts / watts Ref )
+
+watts = ( 10^(Dif in/out / 10) ) watts REF
+    ^
+    watts que entrega el AMP

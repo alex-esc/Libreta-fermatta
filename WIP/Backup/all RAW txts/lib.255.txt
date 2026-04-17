@@ -1,0 +1,12 @@
+Orquestación a cuarteto de cuerdas
+(introducción)
+
+LM Orquestacion
+Cuarteto The study of orchestration =
+* violin (Clef) G D A G
+* viola (Clef) C G D A
+* cello (Clef) C G D A
+* contrabajo (1st pos) [transpose] (Clef) C G D A
+
+G D A G | B C G D A | C A O D G
+violin viola cello + bass

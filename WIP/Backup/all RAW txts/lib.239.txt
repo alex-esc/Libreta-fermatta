@@ -1,0 +1,18 @@
+Contrapunto: 2nda Especie (2:1)
+
+Jun 20 LM Segunda Especie (2:1 ratio)
+Reglas de 1ra Especie aplican aquí
+- Se permiten Disonancias en tiempo debil
+L tiene que resolver por grado Conjunto
+
+* ultimos cambios son
+| S + 6 | -> CP (3) | <- cantos abuso
+| S + 3 | -> CP (8) | <- cantos arismo
+
+[dibujo/nota]
+Si la nota en el offbeat es mayor a un 3ra intervalo, si se pueden hacer Mov. directas.
+[dibujo/nota]
+Si la nota en tiempo debil no resuelve por Grado Como disonancia esta sea una Consonancia.
+* los saltos no se recuperan.
+
+[dibujo de partitura con notas]

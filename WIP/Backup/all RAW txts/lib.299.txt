@@ -1,0 +1,48 @@
+Elenco de un evento
+
+Acceso:
+- Copia de orden
+- Control de acceso
+- Taquillas
+- Operativo de cancha
+- Control de acceso
+
+Montaje:
+- Encargado de Montaje
+- Mantenimiento (Bajo Jefe de Pod y Director tecnico)
+- Mantenimiento
+- Taquilleros (taquilla, motorista)
+- Transportistas
+- Riggers (coloca el rigel techo)
+
+Técnicos:
+- Drum tech (Drum tech)
+- Back stage tech (Audio)
+- Stage Hands
+- Carga de camion
+- Bajo tecnico responsable
+
+Staff:
+- Jefe de Seguridad (Auto - proteccion + Conductor)
+- Guia/s
+- Local Crew
+- Coordinador Responsable
+- Responsable de Pod, del evento
+- Produccion de Espectaculos
+- Diseño
+- Coordinacion (comida)
+- Ejecucion
+- Revestido (8)
+
+(Video)
+- Ing. de iluminacion (plan de luz)
+- Ing. de Audio (Ing. de sala)
+- Ing. Montaje
+- Asistente
+
+Stage Manager
+- Coordinador
+- Crew tecnico
+- Montaje
+- Show
+- Con fecha

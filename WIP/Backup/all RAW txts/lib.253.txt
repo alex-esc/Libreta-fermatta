@@ -1,0 +1,28 @@
+Contrapunto modal Hard/soft rules: 3ra Especie
+
+3ra Especie 4:1
+
+Hard (2,6 2,3,4) aphan de otras especies
+
+(1) El 1er y la 3ra nota deben ser consonancias (C.P. y C.I.)
+o 2do, 4to paso son dissonancias
+
+(2) 2 y 4 tiempos pueden vecinos o passing
+
+(3) deben tener mas G.C. que skips
+
+(4) no usar el mismo neighbor segundo 2 veces
+
+Soft...
+
+Contrapunto modal Hard/soft rules: 4rta Especie
+
+4ta Especie ligaduras
+
+(1) disonancia en down beat es permis con sincopa
+por dis. notas preparation -> disonancia -> Resolucion
+d d d d
+d d d d
+d d d d
+d d d d
+dissonancia

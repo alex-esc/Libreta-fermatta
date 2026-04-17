@@ -1,0 +1,37 @@
+Cálculo de Rango dinámico, "Headroom" & signal-to-noise ratio
+
+Rango dinamico
+m - n
+
+Pico [m] Head Room
+m - s
+
+SOL (OVU) [s]
+Signal/Noise Ratio
+s - n
+
+noise flor [n]
+Lumbo flo
+
+Ejemplo - Análisis Armónico
+
+b7 #7 | D7 | Im
+Ab | A7 | Dm
+mixo | b, m, mol | 9, 11, 13
+b9, 13 | b9, 13 |
+
+Dm | G#7 | Bb
+Dord | alt b7 | Bbmaj7
+9, 11, 13 | b13 | 9, #11, 13
+
+Ebm | Dm | A7 | D7
+Im7 | b6 | E7b5 | mixo b9 b13
+Ido | 9, 11, 13 | 4, 13 |
+
+Im7 |
+Ido |
+9, #11, 13 |
+
+C7 | F7
+dorio | mixo
+9, 13 | 9, 13

@@ -1,0 +1,21 @@
+Materiales fibrosos / porosos
+
+* Materiales Fibrosos o Porosos (Abs. Disipativos)
+energia acustica -> eng. calorica
+son elasticos, no obstante se pueden en paredes/techos
+ejemplos:
+Lana mineral (lana de vidrio)
+La Porosidad es ~ 98%
+absorben medios y altos
+espesor de material -> 1/4 de longitud de onda (λ)
+
+Absorbentes de membrana (resonadores)
+
+* Absorbente de Membrana (abs Resonadores)
+material rigido, el espesor
+eng. sonora -> eng. mecanica
+Son para Graves
+Frecuencia depende de:
+distancia aumenta / dist disminuye
+espesor pequeño / espesor pequeño
+frec. baja -> Rej. Atas (Alta)

@@ -1,0 +1,18 @@
+Análisis Melódico para solis (notas de paso, vecinas, enclosures, apoyatura)
+
+Oct 3 LM
+
+non-chord tones = Soli stuff
+
+C7 C6 C7 C7
+passing note passing note passing chromic chromic pass encl targets
+
+nota vecina
+C7
+neighbor enclosure encl
+
+enclosure chromic
+
+apoyatura
+apoyatura
+Rome"

@@ -1,0 +1,29 @@
+Repasos resumidos (FA, FD, IA, RS)
+
+Repaso Prod/Mix
+
+FA
+* mic: may buses, mic level
+* El proposito es balancear, es evitar
+* m. level cada canal con esto
+* Pre amp: nivel mic -> Line
+* Watts: normalize mic level
+* Nivel de Headroom (at-1)
+* de balansar un cable (reduces gain) + sidechain
+* channel strip (ruth de canal): salida directa de
+* DI: buena señal, señal but con solo o sistema
+* Cue es enviar el signal, fx es enviar headroom
+
+FD
+* comp multiband: compue las Direct, bands
+* in eq, thru eq, dyn eq, dyn tune, fo/ly/ll
+* comp attack: vel que be se una (m/s) sidechain
+* priv el threshold
+* Exciter: amplifica armónicos
+* transient shaper: modula el envelope de una señal
+* y se enfoca en attack y sustain
+* RTA: real time analyzer (FFT)
+* Trigger: reproduce samples threshold
+
+IA
+* (Texto incompleto o no legible al final de la imagen)

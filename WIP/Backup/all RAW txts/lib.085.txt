@@ -1,0 +1,27 @@
+-> transducer al ambiente
+
+20 log (14.39 / 110 dB) = -17.6 dB
+
+Ref de Sonido
+
+-> Distancia
+
+110 dB SPL - 17.6 dB SPL = 92.34 dB SPL
+al oido
+
+Formula de perdida acústica
+
+Formulario (disque)
+en el ambiente (aire)
+
+Fuente -> Transducer
+
+Inicial
+perdida: 20 log (Distancia Inicial / Dist. Final)
+
+dB EF - (20 log (dist inicial / dist Final)) = dB Finales
+
+mic
+
+dB Finales - constante de 1 Pascal
+dB Finales - 94 dB SPL = dB Restantes

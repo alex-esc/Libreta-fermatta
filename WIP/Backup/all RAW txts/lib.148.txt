@@ -1,0 +1,25 @@
+Repaso conversión A-D
+
+13 oct F.D. Repaso
+conversion A D
+
+Sample Rate: Cantidad de muestras por segundo
+Bit-depth: numero de Bits usados por cada sample
+(word length) de muestras
+
+Alto anti-alias -> S/H
+
+Shannon-higest: la SR debe ser doble o mas de la freq. para cumplir una señal constante
+
+AP jump blues
+
+Jump Blues
+
+Gess a predas del siglo XX, en los años 30 (los
+Big Band se reducen en numeros de jua los
+Conserse economica),
+principal instrumento = sax, fondo musica
+entros en duelos en los mids 50s, luego paso
+por R+B Joe turner y Johnny otts
+
+chaotido Boogie

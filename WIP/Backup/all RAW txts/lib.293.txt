@@ -1,0 +1,19 @@
+Solo 3 Cmaj7 Bm7 G7 Bbm7 Dm7 Fmaj7 Amaj7
+
+en COMUN
+Cmaj7 Bm7 G7 Bbm7 Dm7 Fmaj7 Amaj7
+R 3 Dm7 Fmaj7 Ama7 Cmaj7
+
+Ciclo 5
+Cmaj7 G7 Dm7 Am7 Bb7 Bbm7 Fmaj7 Cmaj7
+2 2 2 2 2 e e 2
+
+Ciclo 6
+Cmaj7 Am7 Fmaj7 Dm7 Bbm7 C7 Em7 Cmaj7
+2 1 1 2 2 2 2 3 2 2 3 2
+
+Ciclo 2
+Cmaj7 Dm7 Bb7 Fmaj7 G7 Am7 Bbm7 Cmaj7
+2 3 2 2 3 2 2 3 2
+
+mick Goodrick

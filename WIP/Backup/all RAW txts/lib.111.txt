@@ -1,0 +1,24 @@
+20 m/s  35 m/s
+(E) <-- (R)  Fr = Fe * ((Vs + Ve) / (Vs - Ve))
+300 Hz
+Vs = 340    Fr = 300 * ((340 - 35) / (340 - 20))
+            Fr = 300 * (305 / 320)
+            Fr = 300 * (0.95)
+            Fr = 285 Hz
+
+Formula batimiento y periodo
+
+Batimiento    Ame modulon     Periodo = 1
+              En Freq cercant   Freq
+
+Fbat = F1 - F2
+
+Repaso de formula de longitud de onda
+
+ING Repaso 11 Jul 22
+(A) lambda = 256 Hz @ 18
+lambda = vel / Freq
+lambda = (18) * (0.6) + 331.4 / Freq
+lambda = (18) * (0.6) + 331.4
+         256
+approx 1.33 m

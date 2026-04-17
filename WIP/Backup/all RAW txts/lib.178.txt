@@ -1,0 +1,7 @@
+Símbolos de Resistencias, capacitor, inductor, diodo, transistor
+
+Resistor Capacitor Inductor
+Diodo Capacitor polarizado transistor NPN
+anodo catodo base colector
+base Emisor
+transistor PNP

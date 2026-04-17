@@ -1,0 +1,25 @@
+Batimento
+
+Freq1 - Freq2 = FreqRate de Batimento
+
+longitud de onda
+Freq = 456 Hz
+lambda = vel sonda / Freq
+TEMP = 18'
+lambda = ?
+lambda = (18 * 0.6) * 331.4 / 456 = 0.75
+
+Umbral de audicion
+0.00002 Pa -> 20 uPa - 20 pa
+Umbral Dolor
+120 dB -> 20 Pa
+
+Curvas iso fonicas
+
+Mini repaso de dominantes secundarios en menor
+
+"Mini" Repaso CM
+V/m7 en MAJ
+A7
+D/m7 en min
+mixo a 613

@@ -1,0 +1,37 @@
+Escalas de Acordes Disminuidos
+
+10 mayo LM Acordes Disminuidos
+
+escala menor armon
+B07 = G#69
+C7 mixo b9 b13
+C7 D#7 E7#5 F-7 C7 Ab7 B07
+(B7)
+I07 D#7 E-7
+B07
+Balt b7 B07
+Jonico Alt b67 Frigio
+(9, 13) (6 tonos) (6 tonos) (b11)
+
+Doro
+F47 F#-6/5
+Lidio IM Lidio
+a, #11, 13 q, #13
+
+Doro
+Doro
+Lidio
+Locrio
+mixo
+mixo
+IM
+IM
+I07 C07 C#7 E#7 B7 E07
+Jonico IM Edico Locrio mixo mixo
+q, 13 q, #13 9, 11 9, 13 9, 13
+
+b7
+D7 E7 Am F# -6/5 G07 b1107
+IM Lidio IM Edico IM Edico IM Edico Lidio
+Mix0 Dorico Locrio Lidio Dorico Lidio
+q, 13 q, #13 q, 11 b13 q, #11 q, 11, 13

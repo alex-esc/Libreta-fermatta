@@ -1,0 +1,20 @@
+Ejercicios de conducción de voces
+
+3o
+4o
+8o
+
+V V IV I I IV IV I
+
+3vo, 5vo, 7vo si, uno no para entrar para luego
+
+Dup S -> Dup 8
+
+Dup 8 Dup 5 Dup 8 Dup 5 Dup 8 Dup 5
+
+V V IV I I IV IV I
+
+Emaj
+E p# C# A C D#
+
+V V IV I I IV IV I

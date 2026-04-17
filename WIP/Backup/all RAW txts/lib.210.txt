@@ -1,0 +1,31 @@
+Repaso Guitarras Eléctricas
+
+Esp 13 Ampl
+Amp modeling (timbre)
+Repaso
+
+Cabezal (Bocina)
+Power Amp (cabezal)
+Pantallas (inst)
+(otros)
+cables (cable)
+
+Tipos de amplificadores (clase A, B y C)
+
+Amplificación
+
+* Clase A - Preamp
+- mas sencillo 35-40%
+- baja eficiencia (25-30%)
+- menor distorsión
+- mas limpia
+- Preamp, boca, volumen
+
+* Clase B - Amp Power
+- eficiencia 70-80%
+- amplificación -> calor
+- Rango de Freq Radia[l]
+- VHF -> mayor calor
+- VHF -> menor calor
+
+* Clase C - Radiales

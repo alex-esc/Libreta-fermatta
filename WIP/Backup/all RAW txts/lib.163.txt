@@ -1,0 +1,32 @@
+Fragmento Re-Armonizado de "Yesterday"
+
+LM Nov9 Yesterday Beatles
+
+(Texto de la partitura musical - notas y cifrado):
+F(F4) Em7 A7 Dm (Dm6) Bb(Bdim) C7 (C9) F(F#sus4) C
+Dm G(G/A) B F(F#sus4) Em7 A7 Dm Eb7 Ab (Abmaj7) C7
+
+Voicings con Extensiones: piano
+
+C7 (C9)
+F7(9)(13)
+Bb Mayer
+6/13
+
+(Notas de los acordes representadas):
+Acorde 1: b0, b0, b0, b0
+Acorde 2: b0, b0, b0
+Acorde 3: b0, b0
+Acorde 4: b0
+Acorde 5: b0
+Acorde 6: b0
+
+Ritmos jazz: ejemplo simple
+
+(Notación rítmica):
+1: 9 9 9 9/9
+1: 9 9 9 9/9
+
+(Línea de ritmo inferior):
+9 9 9 9 1 1 1 1
+9 9 9 9 1 1 1 1

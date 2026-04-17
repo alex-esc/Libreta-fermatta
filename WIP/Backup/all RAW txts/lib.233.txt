@@ -1,0 +1,23 @@
+1A
+
+* Postulados: Resolver o encontrar problemas de un caso.
+
+* Campo Curvo: Zona en la que se encuentra el sur incluso sin relaciones.
+
+* Principio de momentum: energia -> momentum
+
+* Absorcion: coef de abs x superficie (S.m)
+
+* coef abs: relacion entre energia absorbida (J) y la energia incidente (I): dada por I/Ii
+
+* Absorcion energia -> energia calorifica
+
+* Regla D'y: tiene su serie y repeticion
+
+* ecuacion de Sabine RT60 = 0.161 / A
+
+* Principio Helmholtz:
+energia -> momentum por momentum
+sumas menos
+
+Boton de color fondo

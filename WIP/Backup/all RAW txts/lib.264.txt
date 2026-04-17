@@ -1,0 +1,23 @@
+Cálculo de Potencia Eléctrica
+
+oct 2
+IA
+
+Potencia (en Watts)
+Potencia = W / dt
+
+P_electrica = I^2 * R
+I^2 = P / R
+(donde I es intensidad)
+
+Intensidad (Amperes)
+120V / 8 ohm = 15A
+
+P = I * R = V^2 / R
+1V = W / A
+Coulomb = C = 1A * Segundo
+
+Tipos de EQ
+RS EQ Grafico (31 bandas / 31 oct)
+planificada
+semi pura (no contiene Q=)

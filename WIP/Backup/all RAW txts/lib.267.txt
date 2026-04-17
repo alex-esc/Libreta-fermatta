@@ -1,0 +1,22 @@
+Repaso LM
+
+10 LM Repaso
+
+Orquesta Secciones:
+- Cuerdas
+  - Violin 1
+  - Violin 2
+  - Viola
+- Metales
+  - Trompa
+- Percusion
+  - Contrabajo
+
+| Div. / no Div.
+| Pizzi
+| Arco
+
+Letras:
+Prosodia - acento de tus y ortonon (o extension)
+Agogica = ejecucion de ritmo
+Acentos cruzados - posicion de silaba fuerte

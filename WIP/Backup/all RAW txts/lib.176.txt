@@ -1,0 +1,3 @@
+Maj7#5 -> DMaj7
+
+Cuando la nota Fa tiene el IMaj7 puede cambiar a un híbrido una trinidad (1/2 tono abajo de la tonica) G7 = B/G

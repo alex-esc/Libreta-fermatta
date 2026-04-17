@@ -1,0 +1,35 @@
+Clasificaciones de Jazz modal
+
+Variacion de Jazz Modal
+algunos estilos estan en 3 grupos
+
+* a-modal: sin centro tonal o modo definido; explora la escala cordial en unidad armonica
+  * ritmo armonico rapido
+  * bajo con inmenso movimiento
+  * armonía melancoliasmas
+  * Explota sonoridad de cada acorde
+  * Sin un modo
+  * Cada nota es igual de importante
+  * No reunion en el ritmo
+
+* polymodal: ritmo armonico lento; 2-4 compas/acorde
+  * modo es claro enchufar compas
+  * Bajo con poco movimiento
+  * Joe Henkum
+  * Gazelle
+  * muchos modos, pero ninguno destaca mas
+
+* estatico: sonoridad modal clara
+  * relacion historica entre modos
+  * se detiene en lento y rapido
+  * Lento: sin ritmo armonico
+    * Bajo con poco movimiento
+    * Ostinato
+    * solo un modo
+    * centro tonal bien definido
+    * Forma menos simetrica
+  * Rapido: ritmo claro y rapido
+    * notas relajadas/distantes
+    * Bajo melodico
+    * centro tonal bien definido
+    * Forma simetrica

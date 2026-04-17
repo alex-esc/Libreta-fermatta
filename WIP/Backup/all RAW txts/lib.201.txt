@@ -1,0 +1,22 @@
+Frecuencias, salto de octava
+
+Freq. Audio = Freq. y dolce Fono
+Salto de Octava 2^n : 2:1 ratio
+440 (2^n)
+c# 277Hz 277 * 2^0 = c#5 -> 277 * 2^1 = 554 Hz
+
+Frecuencia central de banda
+
+Freq. Central
+Fc = Finf * sqrt(2)
+Finf = Fc / sqrt(2)
+
+Fsup = F * 2^n
+Finf = F * 2^(1/3)
+
+Ejemplo
+31.5
+Fsup = F * 2^(1/3)
+Finf = Fc / sqrt(2)
+= 31.5 * 2^(1/3) = 39.68
+= 31.5 / sqrt(2) = 22.27

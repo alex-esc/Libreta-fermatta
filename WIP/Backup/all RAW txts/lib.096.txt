@@ -1,0 +1,24 @@
+Ejemplo de W a distancia, calcula SPL (cálculo de potencia acústica)
+
+un tambor emite 0.0025 watts de Potencia y se recibe a 3 metros. ¿cuantos dB SPL?
+
+0.0025 @ 3m
+
+W = (I)(S)
+0.0025 w = (I)(4 pi 3^2)
+0.0025 w = (I)(4 pi 9)
+0.0025 w = (I)(36 pi)
+0.0025 w / 36 pi = I
+I = 2.2 x 10^-5
+I = ,000022
+
+-> dB SPL = 10 log(I/I0)
+dB SPL = 10 log(,000022 / 10^-12)
+dB SPL = 73.42
+dB SPL -> SPL
+..
+73.42 dB SPL
+
+el Gan formulario
+Pa -> I
+@ Pa -> dB SPL

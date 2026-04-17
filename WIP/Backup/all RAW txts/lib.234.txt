@@ -1,0 +1,15 @@
+RS
+
+* consolas analog: OK!
+* consolas des NO son mas relativas a vany de voth en alirmin
+* Insert: ineto
+* Rack de parm:
+* mic Dyn: Bvin capante de ayas rede alto SPL
+* Process Dyn: Comp line, Gate
+* Pating ang: Q 0 S q D d B, bient
+* Caridite: max conpot en Capte y min en aly
+* A/B
+203 nes
+tech
+M L/R
+* parm de Gie por stagin evk mic

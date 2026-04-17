@@ -1,0 +1,21 @@
+FD
+
+* Bit Rate: bits x s
+* ancho de banda: datos menos de franjas x s
+* mp3: 320 kbps
+* wav, stereo, MU, SR: 16 bits * 1411 kbps
+* 97? -> 01100001
+* 01001101 -> 97
+* lossy con bit rate variable: VBR
+* codif: PCM
+* DSP: digital signal processing
+* DSP rol: alejar/acercar
+
+PM
+
+* correctivo: elim error
+* creativo: aplicar efectos/frazan prod
+* plugin/etc: rec de PC
+* plus DSP: externo
+* medir el VCA es suma de señales? Falso
+* s/he/s/h/

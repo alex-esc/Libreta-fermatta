@@ -1,0 +1,33 @@
+yeso -> A = 14.17 | P = 19.5 <- stucco
+      A' = 13.12 | T = 19.5 <- yeso
+Saf Areas B = 5.55 | Beton sumado = 3.60 -> madera
+      B' = 5.44 | Vente sumado = 4.32 <- vidrio
+
+Total Yeso = 58.28
+T P.C = 19.5        Tabla de abs
+T Madera = 3.66     Bunker = audio
+T Vidrio = 4.32     Total = 85.76m2
+
+    0.25  0.30   500   1k    2k    4k
+    Max  0.25   0.34   0.18  0.10  0.10  0.07
+
+Tabla de S: a/s
+
+material | S     | 125 | 250 | 500 | 1k   | 2k   | 4k
+yeso     | 58.28 | 3.66| 3.66| 3.66| 3.66 | 3.66 | 3.66
+madera   | 3.66  | 0.18| 0.18| 0.18| 0.18 | 0.18 | 0.18
+vidrio   | 4.32  | 0.34| 0.34| 0.34| 0.34 | 0.34 | 0.34
+P.C      | 19.5  | 0.18| 0.18| 0.18| 0.18 | 0.18 | 0.18
+
+s        | 0.432 | 0.34 | 0.17 | 0.129| 10.07| 10.08|
+Sum a/s  |       |      |      |      |      |      |
+         | 88.457| 7.575| 5.74 | 3.03 | 4.83 | 5.49 |
+a total  |       | 215(22)| 0.89 | 0.07 | 0.035| 0.035| 0.0648
+
+Ptgo = -0.161 * Val total
+
+a total = SXA total
+          Total
+
+ejemplo Ptgo = -0.161 * 43.97
+              85.76 * ln(1-0.22)

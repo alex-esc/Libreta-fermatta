@@ -1,0 +1,25 @@
+Voicings con poli-acordes
+
+nov 21
+LM
+(Polys)
+
+poli acordes + tensiones
+
+Los poli acordes deben tener una tension en la estructura superior
+Em/X -> Em/C#
+C#m/X -> Am/C#
+
+Poli Acordes solo tienen tensiones
+C#maj7 -> Ningun acorde tiene 9, solo 9 y 13
+trate de no repetir la Raiz en la upper structure
+
+los voicings
+no son
+literalmente,
+C#maj7 puede ser
+shells, etc.
+
+Como
+(dibujo de notas musicales)
+no debe

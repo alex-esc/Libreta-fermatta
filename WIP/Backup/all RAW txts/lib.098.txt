@@ -1,0 +1,22 @@
+3) 115 dBspc @ 1m , ? dbspc @ 6m
+
+Cambio = 20 log(d1/d0)
+En este
+
+= 20 log(6/1)
+
+Perdim = 15.563 dBspc
+
+115 - 15.563 = 99.44 dBspc
+
+4) (cuanto) "wacusticos" en 98 dBswl
+
+98 dBsil = 10 log(I/Io)
+SIL y SWL comparan formulas
+
+10 ^ (dBsil / 10) * Io =
+(10 ^ (98/10)) * (10^-12) = 0.0063 w
+
+= 0.0063 w
+= 6.3e-3 w
+= 6.3 mW

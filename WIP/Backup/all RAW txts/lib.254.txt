@@ -1,0 +1,17 @@
+Contrapunto modal Hard/soft rules: 5ta Especie (florido)
+
+5ta Especie Florido
+
+Hard Rules
+
+1) el disonante segun de dos notas (d.d.) la misma es disonante
+
+2) cuando 2 notas (d.d.) estan en un tiempo la misma sigue (d) es consonate
+
+3) la nota ocurre solo en down beat
+
+4) la solo puede ocurrir en down beat o en la 2da nota (solo en 1 y 3)
+
+5) no usar d != t.d. a t.f.
+
+6) notas externas

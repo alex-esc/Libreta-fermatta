@@ -1,0 +1,23 @@
+Re-Armonización por Familias Tonales
+
+OCT 26 LMT
+Dato Temer / Re-harm por Familias
+Intercambiar acordes mientras no cambian la Melo
+Re-harm por Familia: Tónica, Subdominante, Dominante
+Tónica: las notas evitables SON casi las mismas entre
+acordes de esta Fam. En C la nota avoidable es F (Fa)
+Nota común en las Familias tonales es la avoid note
+y tenemos disponible mantener con acordes muy proche
+tónica: Fa#
+
+Repaso de conversión D-A
+
+OCT 27 FD
+Conversión D/A
+Hard drive -> De-multiplex -> Reconstruct -> Re-sample
+(PCM) -> (PCM) -> (PAM) (pulse amplitude modulation)
+anti-imagen
+Filter
+Play Back
+(low pass)
+(low pass)

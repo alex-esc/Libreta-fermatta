@@ -1,0 +1,27 @@
+Cables SpeakOn "neutrik"
+
+Conectar Speak on "neutrik"
+Cable trae señal y poder
+Se enrosca
+Speak on power con
+"no power" "power"
+
+Cables RCA
+
+L R
++ -
+RCA
+
+Cable Auxiliar (como de un celular: TRRRS)
+
+NL2 speakon mono
+NL4
+NL8
+
+Tip L
+R R
+R mc
+R volume
+S ground
+
+kit de audio de cel

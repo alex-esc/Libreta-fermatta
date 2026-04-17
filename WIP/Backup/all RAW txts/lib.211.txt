@@ -1,0 +1,41 @@
+Cálculo de ganancia de Amplificadores (fórmula)
+
+Ganancia de amp
+
+Av = 20log(AV) Gan volt
+Ai = 20log(AI) Intens
+Ap = 10log(AP) Potencia
+
+I = out/In
+corriente
+
+Av = Vout / Vin
+Ai = Iout / Iin
+Potencia
+Ap = Pout x Pin
+Av x Ai
+
+ejemplo
+Vi, I, P = dB
+Vin = 50 mV voltaje (V)
+Iin = 5 mA a volts
+A = out/in = 50mV a volts
+A = 5 / 0.005
+A = 166.6
+
+out = 15 mA
+A = 15mA / 5mA
+A = 0.015 / 0.005
+A = 166.6
+
+Ai = 3 mA
+db = 20log(3)
+= 9.54
+
+db = 20log(3)
+= 9.54
+
+Potencia
+Ap = Av x Ai
+Ap = 166.6 x 3A
+Ap = 499.8

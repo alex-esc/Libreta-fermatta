@@ -1,0 +1,48 @@
+Leer el valor y margen de error de resistencias (colores de resistencias)
+
+Nov 22 ING Resistencias
+
+Valor -> tolerancia %
+valor -> (tanto %)
+aprox.
+x10^(?)
+3m (mult) 4m (toleran)
+
+color | 1er Band | 2da Band | x10^? | +/- (toleran)
+Negro | 0 | 0 | 10^0 |
+Cafe | 1 | 1 | 10^1 |
+Rojo | 2 | 2 | 10^2 | +- 2%
+Naranja | 3 | 3 | 10^3 |
+Amarillo | 4 | 4 | 10^4 |
+Verde | 5 | 5 | 10^5 |
+Azul | 6 | 6 | 10^6 |
+Violeta | 7 | 7 | 10^7 |
+Gris | 8 | 8 | 10^8 |
+Blanco | 9 | 9 | 10^9 |
+Oro | | | 10^-1 | +- 5%
+Plata | | | 10^-2 | +- 10%
+
+negro rojo verde rojo -> 200,000 -> 10%?
+0 2 10^5 +- 2%
+4,000 -> 10%?
+
+rojo amarillo verde oro -> 2,400,000 -> 5%?
+2 4 10^5 +- 5%
+24 x 10^5 +- 5%
+2,400,000 +- 5%
+
+cafe/naranja/rojo
+1 5 10^3 +- 2%
+15,000 +- 2%
+
+min (5%) 2,280,000
+max (10%) 13,300 +- 5%
+verde/naranja/rojo
+5 6 10^5 +- 5%
+5,600,000 +- 5%
+
+min (5%) 2,280,000
+max (10%) 2,520,000
+min (5%) 53,000
+max (10%) 55,150
+max (10%) 55,650

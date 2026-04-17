@@ -1,0 +1,59 @@
+C = Q / V
+
+C = q / dV
+
+Capacitor (condensador)
+
+dispositivos que almacenan carga
+
+Ley de Gauss
+
+E -> campo electrico
+
+B -> EMF
+
+C = E * Area
+
+V = V1 + V2 + V3 ...
+
+Vr Et = 12 + 12 + 12
+
+si potencial electrico voltaje
+
+Algunos shortcuts de ProTools
+
+FD Ctrl + Z
+Duplicar en playlist !!!
+
+Comp track
+Split into mono
+
+Record
+Impt + shift
+solo mute
+
+ALT + H
+Shift CLIPS
+
+CMD + M
+mute clip
+
+Ctrl + M
+mute track
+
+CMD + U
+Strip silence
+
+CMD + ALT + F
+Scroll to track
+
+Alt + K
+auto input monitoring
+
+Alt + C
+clear clip indexes
+
+Curve solo de ensueño solo con record ambient
+
+Bounce online (Hardware)
+Bounce offline (No Hardware)

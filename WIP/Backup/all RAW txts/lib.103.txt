@@ -1,0 +1,36 @@
+Introducción a las curvas isofónicas
+(Fletcher-Munson)
+
+audio-metra "250-500"
+
+500 Hz    1000 Hz    5000 Hz    250 Hz    2500 Hz
+   |          |          |          |         |
+común      Bip de Che  mas alto   Bajo     muy
+                                          frec.
+
+(5000, 2500)
+(1000)
+(2500, 5000)
+(500)
+(250)
+(1000)
+(5000)
+(250)
+(1000)
+(2500, 5000)
+
+ING. 20 Jun
+
+20 Hz  30 Hz  250 Hz  4 kHz   8 kHz   16 kHz  20 kHz
+----------------------------------------------------
+             Rango común
+
+Zona donde percibimos mas detalle (sensibilidad auditiva)
+
+Fletcher-Munson -> curvas isofónicas
+                 curvas Fletcher-Munson
+
+Robinson + Panson -> estándar (curvas ISO fónicas)
+
+ISO 226 = equal loudness isophote
+mas sensible a ~ 2000 - 5000

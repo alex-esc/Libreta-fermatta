@@ -1,0 +1,17 @@
+Precauciones de seguridad eléctrica
+
+ING Precauciones de seguridad eléctrica 20 sep
+no te muevas
+el cuerpo es conductor, cuando los músculos
+se electrocutan se tensan evitando que
+sueltes el cable!
+circuitos abiertos y cerrados (loop o no loop)
+
+Formula de intensidad eléctrica (intro a ley de ohm)
+
+Intensidad
+potencia de W/m2
+area bajo la Intensidad = Potencia transferida
+Corriente -> Amperes (A) 1A = 6.2 x 10^18 e-
+cantidad de e- que pasan por un punto (a) por segundo (s)
+I = Voltaje / Resistencia

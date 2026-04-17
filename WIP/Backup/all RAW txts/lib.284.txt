@@ -1,0 +1,25 @@
+Ejercicio 4&5 Soli
+
+Ejercicio 7+5
+Alto, alto, tenor, Bar (S)
+Tp 1, 2, 3, Tb 1, 2, 3 (7)
+
+A  Gm7   C7    F#9   Bbmaj7(#11)
+  b       b     b     b     b
+
+T  b     b     b     b     b
+
+Tb 1, 2, 3  b     b     b     b     b
+
+Tb 1, 2, 3  b     b     b     b     b
+
+Vim7    bVII7    VII#9    Im7(#11)
+Aeolian  Mixol.   Mixol.   Lydian
+
+9       b       b       b       b
+
+Gm7     C7      F#9     Bb#11
+
+b       b       b       b
+
+R     S   3   S   b   9    9

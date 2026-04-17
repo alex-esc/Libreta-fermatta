@@ -1,0 +1,47 @@
+Acustica : de potencia a intensidad (cont.)
+
+Frente
+Focal
+(P) ----> [Pre] ----> [OHF] ----> [EQ] ----> [BUS] ----> [Master]
+          +64 dbu unity    +3db     -10db    -2db
+
+5cm
+
+95 dBspl
+@ 2cm
+
+-56 dBu
+@ Pa
+
+8. Omega
+
+----> [AMP]
+200 w 8. Omega
+2V RMS
+
+5m
+
+(Tarea)
+
+(acustica pt 2)
+
+La amplitud se mide en:
+Intensidad, Presion, Potencia
+en la Frente
+
+(Potencia acustica = se mide en Watts)
+|
+v
+
+Propagacion acustica (desde el punto)
+|
+v
+
+Propagada en DISTANCIA
+
+|
+v
+
+INTENSIDAD acustica = se mide en Watts / m2
+
+"S" = Superficie = Forma de propagacion

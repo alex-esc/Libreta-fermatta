@@ -1,0 +1,17 @@
+6 Ejemplos de problemas de calculo de Potencia Acustica
+
+1) Cuanto son 14 pa a I?
+dBsp = 20log(Pa / Pa0)
+20log(14 / 2x10^-5)
+= 116,9 dBsp -> 116,9 dBSIL
+I = [10^(116,9)] (10^-12)
+I = 0,48 w/m2
+
+2) I -> Pa ; 0,000,000,35 w/m2 -> Pa
+I = 35x10^-7
+dBSIL = 10log(I / I0)
+= 10log(35x10^-7 / 2x10^-12)
+= 10log(35e7)
+= 55,44 dBSIL (SIL)
+10^(55,44/20) Pa0 = 0,011
+= 11x10^-3

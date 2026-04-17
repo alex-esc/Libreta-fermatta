@@ -1,0 +1,25 @@
+en una Fuente Puntual:
+
+Potencia ac = W = (I)(S)
+(I) Intensidad ac = W/m^2 -> dB_SIL
+
+[Dibujo de un círculo con radios marcados como pi, 2pi, 4pi] -> [Dibujo de un círculo pequeño]
+
+Superficie (S) = (4)(pi)(r^2)
+
+I = Pa^2
+
+presion sonora = 1.2 pa
+Distancia = 30 m
+
+(1.2pa)^2 = I
+
+2 x 10^-5 = 0.00005 pa
+10^-12 w/m^2 = 0.00000000001 w/m^2
+
+dB_SIL = 10 * log(I / 10^-12)
+= (10 ^ [I/10^-12]) (10^-12)
+
+[Nota: En la última línea, el símbolo parece indicar una operación de logaritmo con base 10 aplicada a la relación de intensidades]
+
+dB_SPL = dB_SIL Sound Intensity Level

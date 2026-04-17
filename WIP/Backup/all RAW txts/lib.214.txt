@@ -1,0 +1,34 @@
+Calcular coeficiente de absorción de un cuarto
+
+Promedio de Absorción
+
+abs de una superficie = S
+
+Coef. abs promedio aprox
+
+areas superficie de unidad S1, S2, S3 ...
+
+coef promedi: A = (a1*S1 + a2*S2 + a3*S3 ...) / (S1 + S2 + S3 ...)
+A = sum(ai * Si) / sum(Si)
+
+sus coef de abs
+a1, a2, a3 ...
+
+S = Superficie total
+
+Materiales absorbentes (métodos: disipativo, membrana, helmholtz)
+
+materiales absorbentes
+* disipativo (sonoro-calorica)
+* membrana (sonoro-deformacion)
+* Helmholtz (sonoro-mecanica)
+
+(Gráfico de coef de abs vs Frec)
+Eje vertical: Coef de abs
+Eje horizontal: Frec
+Curvas en el gráfico:
+- Helmholtz
+- Disipativo
+- membrana
+
+Valores eje horizontal (Frec): 63, 125, 250, 500, 1k, 2k, 4k, 8k

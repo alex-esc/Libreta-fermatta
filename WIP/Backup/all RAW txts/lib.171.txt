@@ -1,0 +1,60 @@
+Aqui tienes la transcripción literal del texto contenido en la imagen:
+
+[Parte superior - Ecuaciones y diagramas]
+
+(Diagrama de circuito con resistencias)
+
+R1 = 400
+R2 = 100
+R3 = 180
+Rt = 1340
+It = 12 / 1340 = 8.95 mA
+
+R1 = 400
+R2 = 100
+R3 = 180
+R4 = 1340
+Rt = 400 + 100 + 180 + 1000 = 1680 (Nota: el texto manuscrito parece decir 1340, pero la suma escrita es distinta)
+
+(Diagrama de circuito paralelo)
+
+12V
+R1 = 200
+R2 = 80
+R3 = 500
+R4 = 180
+Rt = 36.7...
+It = 12 / 3/6.7...
+
+Ralt = (1/200 + 1/80 + 1/500 + 1/180)^-1
+Rt = 36.7751 Omega
+
+Nov 23 1A
+
+[Parte inferior - Texto manuscrito]
+
+Re-Armonización, tomando en cuenta la Melodía
+
+Nov 23 LM
+
+Cualquier acorde menor se cambia por
+Cualquier otro (menos un V)
+
+Cuando una melodia contiene b7 un cambio como el
+otro color cuando un acorde menor contiene b7
+en varios, B comun re-armonizan.
+
+El uso de notas distintas en la Armonia cita monataria
+un V7 si la melodia tiene 5 o 6 grado
+un m7b5 usa la nota por ejemplo (b5, b6)
+
+Al cambiar en m7b5 Im7 m7b5 el V7 tambien cambia
+la 5 del el 69 del V7, el V7
+se cambia por un 7 b6 9
+
+un acorde menor puede sonar
+un acorde Hibrido, Luz
+Dm7 G7
+Dm7b5 G7b9
+La melodia tiene b3 y b7
+m7b5 G7b9 G13

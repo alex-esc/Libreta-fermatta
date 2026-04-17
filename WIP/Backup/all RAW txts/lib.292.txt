@@ -1,0 +1,21 @@
+Master Max
+
+Ciclo 4 (ciclos 2,3,4,5,6,7)
+C F B E A D G (C)
+etc....
+
+ciclo 5
+C07 Dm7 Am7 Em7 Bm7 F07
+
+Ciclo 6
+C07 Am7 Fmg7 Dm7 Bm6 G7 Em7
+
+Ciclo 4 (3 notas en comun en triadas) 3 notas en misma diaga
+(2t) con 3 notas hay
+C F Bm Bm7
+2 notas en commun
+R 2 1 Em Am Dm G C
+7/ 1 3/ 3'
+
+(2t) Cmaj7 Fmaj7 Bm7 Bm6 Em7 Am7 Dm7 C7 C
+2 2 E 2 Scribe

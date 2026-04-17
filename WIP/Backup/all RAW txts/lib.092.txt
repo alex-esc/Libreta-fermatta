@@ -1,0 +1,17 @@
+Dominantes Secundarios que resuelven a Acordes Mayores o menores (tensiones)
+
+9 b13 -> 2
+b9 b13 -> menor
+9 13 -> maj
+
+m7 7
+dorico mika maj
+9, 11, 13 9, 13
+
+m7 7
+Dorico b9 melodia
+b9, 13 mika 9 b13
+
+m7 7
+dorico b13 mika armonica
+11, 13 b9, b13

@@ -1,0 +1,29 @@
+Cálculo de acústica de un cuarto real (Hiram)
+
+Jun 26 acoustic cuarto Hiram
+
+Vid total = 28 x 2.16 x 0.05
+
+con superf:
+
+A = 2.46 x 6.5 Pa
+B = 2.46 x 6.5 Pa
+
+A (2.46 x 6.5) - Va + Va'
+B (2.46 x 6.5) - Pa
+B' (2.46 x 6.5) - Va'
+B' (2.46 x 6.5) - Vo'
+
+P = 19.0 m3
+T = 14.0 m2
+P (3 x 6.5)
+T (3 x 6.5)
+
+A = 16 - 2.88 - 14.12 m2
+B = 7.38 - 1.85 = 5.53 m2
+B = 7.38 - 1.44 = 5.94 m2
+
+S.A. Proyect y vol:
+Pa = 1.85
+Pb = 1.83
+Vo' = 1.44

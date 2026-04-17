@@ -1,0 +1,13 @@
+Bocim | Anten | RS
+
+- Hilo conductor
+- Hilo 2
+- Hilo neutro
+
+N - Hilo neutro
+
+Cruze con colchon | Cruze sin colchon | Masa
+
+tierra | tierra de proteccion | tierra sin RLC
+
+conector hembra | conductor macho | masa pura a tierra

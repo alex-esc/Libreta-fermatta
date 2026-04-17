@@ -1,0 +1,39 @@
+Calibración de Monitores
+
+Mar 9
+Referencia asimétrica
+REW, Smart
+
+107 -> Q
+3 a 1 (triply equivalent)
+3 medias a 1 lado
+
+107
+107
+
+mic
+(a altura del oído)
+vol. ante de un Feed Back
+
+Anteriormente 3 a 1
+CSO, C80
+clara de voz
+instrumental
+
+50 Hz
+mar 9
+0 -> B/0
+15
+30 Hz 30 Hz
+
+Cálculo de frecuencias por Semitono
+
+IA Mar 13
+en escala 12tet
+Octava: x2
+Octava inf: /2
+Freq. inf: 3/2
+Freq. x 12/2 = Freq / 12/2
+R 2^1/2
+
+20 Hz Freq = 20 / (2^(1/12)) F1 = 20 * (2)^(1/12) = 3 * sqrt(2) * 1.26 / sqrt(2) = 1.12

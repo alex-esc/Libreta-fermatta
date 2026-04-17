@@ -1,0 +1,26 @@
+Fundamentos de Electricidad
+
+oct/II ING Repaso (Lema 1750)
+
+Fund. Electr:
+Forma de energia que produce efectos luminosos, mecanicos, calorificos, sonoros etc. y se usan al separarlos (mover los electrones que forman los atomos).
+
+Electrones y atomos:
+Estructura del atomo: nucleo (protones + neutrones) y orbitas (electrones)
+(P) (N) (e-)
+
+Tipos de conductores (conductores, semiconductores y aislantes)
+
+tipos de materiales, conductivos:
+- conductores: menos de 4 electrones de valencia (metales)
+- aislantes: mas de 4 electrones de valencia (no metales)
+- semiconductores: electrones de valencia (diodos)
+
+Propiedades tanto de conductores como aislantes:
+[1 2 3 4] [5 6 7 8]
+conductivo | semi | aislante
+
+Materiales conductivos:
+Conductividad: propiedad de cuerpos que permiten el paso de calor / electricidad en conductores solidos. La corriente electronica se transporta por el movimiento de electrones en disoluciones y gases lo hace por medio de iones.
+
+Electrones de valencia viajan al redor del nucleo en dif. ultima orden (max 8)

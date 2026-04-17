@@ -1,0 +1,30 @@
+ES
+
+(1) montaje: auto a micro
+(2) mon. wedge, side fills, in ears
+(3) wedge -> punto nulo de mic
+(4) in ear: ente feedback
+(5) FB: efecto Larsen (mic)
+(6) ingreso de audio al exceso
+(7) mono/stereo
+(8) eq G/R: Bando
+(9) Meto solo en In ears
+
+EA
+
+(1) Vumetro -> Variaciones de tension, aguja, o LED
+verdadero
+
+(2) T +
+e -
+S GND
+
+(3) Circuito Interno: Resistencias, trasdos
+verdadero
+
+(4) LM3815 -> LED ( 1, 10 - 18 )
+
+(5) Capacitor -> Pasivo [dibujo de capacitor]
+
+(6) Pin #4 -> GND [dibujo de pin/conector]
+GND

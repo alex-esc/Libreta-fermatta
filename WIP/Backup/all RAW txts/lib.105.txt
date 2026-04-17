@@ -1,0 +1,23 @@
+Ejemplos de Análisis Armónico
+
+ejemplo 1
+I7 -> II7b13 -> I7 -> I7
+| Fm | Gm7b5 C7 | Fm | Cm7b5 F7 |
+(b9, 13) (b13) (b9, b13) (b13)
+II7 -> Bbm7 | I7 -> Fm7 | (b9, 13) (b9, 13) (b9, 13)
+
+ejemplo 2
+II7/bVII -> bVII/bII -> bVII
+| Abm Db7 | Gm7b5 C7 | Fm7 | Gb7 |
+(b9, 13) (b13) (b9, 13) (b13, b9, 13)
+
+ejemplo 3
+Im7 -> bVII -> Im7 -> bVII/bIII -> bVII
+| Am7 | E7 | Am7 | A7 |
+(b9, 13) (b9, b13) (b9, 13)
+Im7 -> bVII -> bVII/bIII -> bVII/bVI -> bVII
+| Dm7 | Fm7 | F#m7b5 | G7 |
+(b9, 13) (b9, 1#) (b9, b13) (b9, 13)
+bVII/bIII -> bVII/bVI -> bVII/bV -> bVII
+| C#m7 | A/C# | D#7/D# | E7 |
+(b9, 13) (Lidio b9, 13) (Lidio b9, b13) (Lidio b9, b13)

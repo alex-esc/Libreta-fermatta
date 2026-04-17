@@ -1,0 +1,18 @@
+Identificar frecuencias con vocales
+
+Relacionar abion u o i a e
+20-80 | 80-250 | 250-1k | 1k-2k | 2k-4k |
+
+Frecuencia
+
+63  125  250  500  1k  2k  4k
+Tierra U  O  A  E  I  A  E
+
+Cálculo de Absorción de yeso, vidrio, madera y piso
+
+Un la
+Material | Superficie | a | s-a | d | sa | ssa | ssa | ssa
+yeso     |           | .29| .1  | .05| .07 | .07 | .09
+Vidrio   |           | .1 | .08 | .0 la | .03 | .02 | .02
+madera   |           |    |     |     |     |     |
+piso     |           | .01| .01 | 0.1 | 0.01| .02 | .02

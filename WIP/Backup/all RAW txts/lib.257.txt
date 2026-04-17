@@ -1,0 +1,14 @@
+Símbolos de componentes de diagrama de circuitos
+
+I. A. (11 Sep)
+
+Switch off -> Fusible -> Diodos
+Conmutador -> Timbre (campana) -> diodo LED
+Pulsador -> Lámpara / Foco -> fotodiodo
+OA -> motor eléctrico -> diodo Zener
+Batería / Pila -> Voltaje -> Capacitores / condensadores
+Resistencia IEC -> Amperes -> normal / polarizado
+Resistencia NEMA -> ohmio -> normal / polarizado
+Bobina -> Watt/h -> normal / polarizado
+Potenciómetro -> DC -> normal / polarizado
+-> AC -> normal / polarizado

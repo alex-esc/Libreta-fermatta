@@ -1,0 +1,36 @@
+Rangos vocales: Soprano, Alto, Tenor, Bajo
+
+LM Sep 19
+
+Violeta Lades
+
+3, 6, 7 = notas modales
+1, 4, 5 = notas tonicas
+
+Soprano -> Do
+Alto -> La
+Tenor -> Do
+Bajo -> Re
+
+Soprano -> Do
+Alto -> La
+Tenor -> Do
+Bajo -> Re
+
+Soprano -> Do
+Alto -> La
+Tenor -> Do
+Bajo -> Re
+
+S-A: Max 6ta
+A-T: Max 6ta
+T-B: Max 2 octavas (fijo)
+Recomiendan 11na
+
+Voicings / disposiciones abiertos y cerrados
+
+voicings
+abierta
+cerrado
+
+posicion dentro de la misma voz soprano

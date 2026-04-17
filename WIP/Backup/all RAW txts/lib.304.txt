@@ -1,0 +1,25 @@
+FF (cont.) Sonic
+* USO Estrategico de Sonido para Serval prod: Branding
+* Tema Canales de Produccion: Jingle
+* Produccion = hacer un producto
+* Administracion: Registro tiempos / personas / Presupuesto
+
+FD
+* longitud Max de AES/EBU: 100m
+* Toslink -> (Negro) Cuadrado
+* BNC -> (Gris) Redondo
+* ADAT Lightpipe -> max 192kHz : Solo 24bits
+* 2.48 minutos, 24 bits, 48kHz -> 184.57MB
+* 6.24 s, 16 bit, 88.2kHz -> 387.59MB
+* WAE, AIF, BWF -> sin compresión
+* AC3 -> Dolby Labs
+* lossless -> comp ratio
+* ATRAC -> Lossless
+
+Prod-Mezcla
+* ing de Grabacion -> Tracking
+* ing de Master -> Mastering
+* mastering no edita
+* mucha comparacion en session Rhythm - NY
+* menos butina, mas voz -> Nash
+* despeja montaje -> ver ano

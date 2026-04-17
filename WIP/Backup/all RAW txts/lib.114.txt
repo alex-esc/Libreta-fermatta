@@ -1,0 +1,45 @@
+Segundo Grado
+
+IIm7b5 men. NAT
+IIm7b5 men. ARMO
+(la mib)
+
+Tercer Grado
+
+BIImaj7 men. NAT
+BIIImaj7#5 m. MEL
+(la# sol#)
+
+Cuarto Grado
+
+IIm7 men. NAT
+IV7 m. mel/b7
+(la b7) men. MEL
+
+Quinto Grado
+
+VI7 men. NAT
+VI7 men. ARMO
+(mi b6 b13)
+VI7 men. MEL
+(mi b6 b13)
+
+Sexto Grado
+
+bIImaj7 men. NAT
+(bVImaj7#9) men. ARMO
+(re# b9)
+
+Septimo Grado
+
+bVII7 mel. NAT
+VII7 mel. ARMO
+VIIm7 men. MEL
+A#dim (b9, b5, b13)
+
+Vim7b5 m. MEL
+(la b9)
+
+G7#5#9 = G7b13#9
+^
+GALT

@@ -1,0 +1,28 @@
+Intensidad en Serie y en Paralelo
+
+PD (serie) It = I1 = I2 = I3 = In...
+(paralelo) It = I1 + I2 + I3 + In...
+
+I1 = V / R1 ; I1 = V / R1 ; 12v / 60 ohm = 0.2a
+I2 = V / R2
+
+en serie
+I = 0.2a
+I2 = 0.2a
+R = 60 ohm
+
+en par
+I1 = 0.2a
+I2 = 0.2a
+I3 = 0.39a
+
+R1 = 60 ohm
+R2 = 40 ohm
+R3 = 24 ohm
+
+Rt = (1/R1 + 1/R2) ^ -1
+Rt = (1/60 + 1/40) ^ -1
+Rt = 24 ohm
+
+It = 12v / 24 ohm = 0.5a
+It = 12v / 24 ohm = 0.5a

@@ -1,0 +1,29 @@
+->meter
+-3.5 dBu
+
+->Control Room
+-11.5 dBu
+
+->AMP
+100w a 8 ohm
+(1.5 Volts)
+
+Ref = 0.775
+
+20 log (x volts / Ref)
+20 log (1.5 / 0.775) = 5.7
+
+input = -11.5 dBu  out = ?
+out = 5.7 dB
+
+->wattage
+<- discrena ente In y out
+(10 ^ (-17.2 / 20)) * 100w = 1.9w approx 2w
+
+->Bocina
+specs: 110 dBspic, 1w @ 1m, 8 ohm
+
+10 log (110 dBspic / 4m) = 14.39 dBspic
+
+<- discrena ente In y out
+<- discrena ente In y out

@@ -1,0 +1,20 @@
+Memorizar notas en pentagrama con tensiones de acordes
+
+(Pentagrama con notas: C, D, E, F, G, A, B, C, D, E, F, G, A, B, C, D, E, F, G, A, B, C)
+
+(Pentagrama con notas: C, D, E, F, G, A, B, C, D, E, F, G, A, B, C)
+
+(Pentagrama con notas: C, D, E, F, G, A, B, C, D, E, F, G, A, B, C)
+
+(Pentagram, con notas: C, D, E, F, G, A, B, C, D, E, F, G, A, B, C)
+
+9 = 2, 11 = 4, 13 = 6
+1 = 8, b = 10, # = 12, bb = 14
+
+(Pentagrama con notas y extensiones: C con 9, 11, 13; D con 9, 11, 13; E con 9, 11, 13; F con 9, 11, 13; G con 9, 11, 13; A con 9, 11, 13; B con 9, 11, 13)
+
+(Pentagrama con notas: C, D, E, F, G, A, B, C)
+
+(Pentagrama con notas: C, D, E, F, G, A, B, C)
+
+Norma

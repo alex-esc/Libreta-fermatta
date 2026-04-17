@@ -1,0 +1,47 @@
+Corriente en un Nodo (electrónica)
+
+ee 31 ING
+nodos (^)
+conectan solo 2 componentes
+
+[Dibujo de circuito con dos capacitores en serie]
+
+Kirchoff
+
+V1 + V2 + V3 + Vn = 0
+VF = -V1 - V2 - Vn..
+
+kor pt 2 "corriente"
+
+Suma de todas las corrientes que entran a un nodo (^)
+son iguales a las que salen
+
+[Dibujo de circuito con corrientes entrando y saliendo de un nodo]
+
+Suma por nodo
+FALLO
+
+Análisis de Capacitadores
+
+analisis de capacitores
+
+[Dibujo de capacitores en serie]
+C1 C2
+CT = 1 / (1/C1 + 1/C2)
+serie
+
+Unid de C =
+microfaradios
+uF = x10^-6
+22 uF = 0.000022
+
+[Dibujo de capacitores en paralelo]
+C1 C2
+Cp = C1 + C2
+paralelo
+
+pF = x10^-12
+
+0.00002055 uF 20.55 uF
+
+Norma

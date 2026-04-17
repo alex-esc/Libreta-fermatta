@@ -1,0 +1,21 @@
+Periodo, Frase, Semifrase, motivo, célula (desarrollo melódico)
+
+Kábel UM Repaso (Sintaxi Misa)
+Sonata II Mozart Amj)
+
+-> periodo (n2 frases)
+-> frase (n2 semies)
+-> semifrase (n2 motivos) -> conclus, no ouvert
+-> motivo (n2 inicio) [silaba]
+-> inicio/celula [forma]
+
+-> triple analisis
+* armonía
+* melody
+* Ritmo
+
+Ejemplos de canciones con intervalos de 2, b2, b7
+
+Cont stop (E)
+Jawi b2
+Contigo apredi b7

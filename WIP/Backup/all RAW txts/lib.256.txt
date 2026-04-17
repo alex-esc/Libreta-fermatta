@@ -1,0 +1,22 @@
+Rangos y afinación de Violín, Viola, Cello, Bajo
+
+{
+  Rango violín: en general mientras este en su clave
+  G3 - E7
+  
+  Rango de Viola:
+  
+  Cello:
+  
+  Bass
+}
+
+(1) foreground: main melody (agudos)
+(2) middle ground: contremelody
+(3) Background: chord, melody (Bajo)
+
+texture: polyphonic unison
+
+String Quartet = V1, V2, Viola, cello
+
+(Fuga) melodia + pasaje a otro instrumento

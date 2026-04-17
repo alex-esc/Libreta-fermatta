@@ -1,0 +1,42 @@
+Intensidad eléctrica en Seres Humanos
+
+Riesgo Eléctrico: posibilidad de corriente en el Humano
+* Circuito cerrado | Intensidad en el Ser Humano
+* A potencial | 50 uA - no se puede (asumido por contexto)
+Factores de Riesgo | 1-3 - normal
+* Intensidad - Watts/m2 | 3-10 - Eléctrico, mucho más
+* Zona | Calambre
+* Área Sujeta |
+* Tiempo | 10 - Tetanio muscular
+* Protección, prot. Columna | 25 - Pueden Respirar
+| 25-30 - Asfixia y Ley
+| y muerte
+| 60-75 - Fibrilación
+| ventricular
+
+esta:
+all you need to
+know about the
+Music Buissness
+
+Principios de Audio en m | I = C/segundo -> Amperios
+Ley de Ohm: Intensidad de corriente que circula
+Un circuito es proporcionado a la
+Circuito | (V) Tensión aplicada e intensidad por
+Resistencia | Resistencia
+a la resistencia del mismo
+
+I = V, I = V/R, I = V/R (asumido)
+I = Corriente eléctrica (V) R = Resistencia (Omega)
+
+Circuito
+eléctrico
+|
+|
+Gases
+
+Circuito
+eléctrico
+|
+|
+refendo

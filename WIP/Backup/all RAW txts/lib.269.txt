@@ -1,0 +1,38 @@
+Cables XLR
+
+XLR -> son multipolares
+
+tipos de conector:
+- unipolar
+- multipolar
+
+- trenzado -> dos duplex todo
+- duplex
+- twin axial -> 2 señales en un
+- coaxial
+
+tipos de cables:
+- trenzado #
+- coaxial
+- luminar
+- mixta (todas las otras)
+(un aderno)
+
+Cables TS y TRS
+
+TS
+- tiene
+- negro
+
+TRS
+- tiene
+- negro
+- neutro
+
+L
+R
+GND
+
+L
+R
+mico/goro

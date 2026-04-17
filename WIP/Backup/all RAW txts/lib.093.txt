@@ -1,0 +1,16 @@
+Repaso de escalas simétricas (T,ST y ST,T)
+
+Sim disminuida (T,ST) 9, 11, b13, 7 -> C07
+Sim dominante (ST,T) 9, #9, #11, 13 -> D13 69
+
+acordes Dim
+llevan escala
+Simetrica Dim
+T ST 9, 11, 13, 7
+
+Repaso de flechas de resolución (4ta, st, b6, T)
+
+4/5
+5#
+b6
+T

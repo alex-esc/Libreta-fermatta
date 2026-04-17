@@ -1,0 +1,27 @@
+Intro a Protoboards, Capacitores y Diodos
+
+ING Guardia
+
+Protoboards: + Rojo
+           - Azul
+
+Capacitor: pasivo, almacena carga
+
+Diodo: 1 way Gate
+
+Colores de resistencias (cont.)
+
+Color  Band 1   Band 2   BB (x10^er)  toler.
+negro    0        0         x1
+cafe     4        1         x10
+rojo     2        2         x100
+naranja  3        3         x1000
+amarrillo 4       4         x10000
+verde    5        5         x100000
+azul     6        6         x1000000
+morado   7        7         x10000000
+gris     8        8         x100000000
+blanco   9        9         x1000000000
+
+dorado                  5%
+plateado                10%

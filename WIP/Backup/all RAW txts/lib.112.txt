@@ -1,0 +1,24 @@
+Repaso de fórmula de dB U, V y W
+
+(2) Pa = 0.0035
+dBu = ?
+dBv = ?
+dBw = ?
+
+Ref dBu = 0.775V
+Ref dBv = 1V
+Ref dBw = 1W
+
+dB SIL = dB W
+
+Pa -> dB SPL
+SPL = 20log(Pa / 2x10^-5)
+SPL = 20log(0.0035 / 2e-5)
+SPL = 44.8 dB SPL
+
+dBv = 20log(44.8 sec / 0.77)
+dBv = 20log(57.8)
+dBv = 35.23 dBv
+
+dBv = 20log(44.8 / 1)
+= 33. dBv

@@ -1,0 +1,19 @@
+Notas PD patch de entrenamiento de frecuencias
+
+Pitch -> Generar de 1K (pan center fijo)
+110 a 980 dB
+
+PD Patch
+-> Feedback sim
+-> DF DBs (prior 3 -6 dB det)
+-> EQ match 3-4 bands
+
+Sound Gym
+
+Inversión de escalas modales
+
+escalas espejadas
+IONIAN -> PHRYG
+AEOLIAN -> MIXO
+LOCRIAN -> LYD
+DORIAN

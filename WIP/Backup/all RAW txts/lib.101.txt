@@ -1,0 +1,62 @@
+Resumen de Escala-Acordes, 2-5-1's, Subs y dominantes secundarios
+
+1234567
+Cmaj7 Dm7 Em7 Fmaj7 Gm7 Am7 Bm765
+Cmaj7 Dm7 Em7 Fmaj7 Gm7 Am7 Bm765
+(notas: 9, 11, 13)
+
+M.A.D
+Cmaj7 Dm7 Em7 Fmaj7 Gm7 Am7 Bm765
+(notas: 9, 11, 13)
+
+M.E.L
+Cmaj7 Dm7 Em7 Fmaj7 Gm7 Am7 Bm765
+(notas: 9, 11, 1/13)
+
+M.A.R.M.O
+Cmaj7 Dm7 Em7 Fmaj7 Gm7 Am7 Bm765
+(notas: 9, 11, 13)
+
+M.N.A.T
+Cmaj7 Dm7 Em7 Fmaj7 Gm7 Am7 Bm765
+(notas: 9, 11, 13)
+
+2-5-1's
+(notas: 9, 11, 13)
+
+2-5-1
+M.E.L
+Dm7 G7 Cmaj7 Dm7 G7 Cmaj7
+(notas: 9, 11, 13)
+
+2-5-1
+M.A.R.M.O
+Dm7 G7 Cmaj7 Dm7 G7 Cmaj7
+(notas: 9, 11, 13)
+
+2-5-1
+M.N.A.T
+Dm7 G7 Cmaj7 Dm7 G7 Cmaj7
+(notas: 9, 11, 13)
+
+Subs
+Dm7 G7 Cmaj7
+(notas: 9, 11, 13)
+
+Dominantes secundarios
+VII -> F7 -> Bb7 -> Eb7 -> Ab7 -> Db7
+VII -> F7 -> Bb7 -> Eb7 -> Ab7 -> Db7
+
+Subs
+VII -> Dm7 -> G7 -> Cmaj7
+VII -> Dm7 -> G7 -> Cmaj7
+
+Resuelven Maj
+VII -> B7 -> Em7
+VII -> B7 -> Em7
+
+Resuelven minor
+VII -> G7 -> Cmaj7
+VII -> G7 -> Cmaj7
+
+Escala = (9, 11, 13)

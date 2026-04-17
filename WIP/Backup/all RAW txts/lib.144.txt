@@ -1,0 +1,22 @@
+Voicings modales: 3ras, 4rtas, 2ndas y combinado
+
+oct 10 acordes (cuartos)
+LM + voicings modales
+
+disposicion de notas en un acorde en estetica supernor
+afecta estabilidad, hay 4 categorias principales
+
+* 3ras: 3, b3
+* cluster: inestable, duros, 2ndas y b2
+* cuartal: 4tas, #4, araniden tension
+* combinado: 2, 3, 4, tensa y estable
+
+depende de la disposicion de intervalos, se nombran
+por el (color) intervalo(s) de acorde
+se usan como acordes para armonizar, connotan
+pedal
+
+disposiciones modales de acordes con convencional
+configuracion cuartal, sonoridad abierta
+
+Dmit: D, G, C, F

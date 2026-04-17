@@ -1,0 +1,33 @@
+232 - Cableado (tipos de cables)
+
+Ex. ejemplos Tomas 2, 5, 6 awg 11 = swg 13
+
+Hay distintos de Cable:
+Cableado Estar: (standard wire gauge):
+AWG: American Wire Gauge:
+mas grueso 1 ---> 32 mas delgado
+
+Cables "unicable" o uni polar
+== una linea de cobre
+
+Multi polar
+== muchos hilos de cable
+
+Cable duplex
+\ /
+ \ / R resso
+  |
+  | linea
+  | de In
+
+Coaxial
+--- cobre
+--- plano
+--- R
+--- A
+--- a-shie
+--- aislante 2
+
+vivo (Rop)
+neutro (Blanco)
+tierra (negro) earth

@@ -1,0 +1,23 @@
+Repaso de ingeniería parcial
+
+SENE, 24
+
+- Mono/Panco
+- Record to 2 (track) L+R
+- Multitrack
+- Stems: todos los tracks de un Grupo (semis le Gut, Drums, NOX, etc.)
+- Bases y dubs
+
+- Procesos Correctivos
+  Filtros (EQ/coneco)
+  - Zona muerta
+  - Cuerpo
+  (kick)
+  (muerte cuerpo 20 - 40 -> 40 - 110 -> 200 -> 350,500)
+  (muerte 8k - 20k)
+
+Composicion Correna: 3-4 GR
+Ducking
+Side-chain "Cadena lateral"
+Re-amp
+dubbing (doblar) "double taking"

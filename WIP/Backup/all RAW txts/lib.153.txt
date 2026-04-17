@@ -1,0 +1,32 @@
+Basicos de leer diagramas de circuitos de audio y Suma de resistencias en serie
+
+Ing Oct 25
+
+Regenerative
+Feedback -> (Resistencia) -> Output
+Plug (75)
+
+(1) Entrada de Polar
+(2) Capacitancia
+(3) Conexiones
+(4) Salida
+(5) Tierra
+(6) Entrada
+
+Ci = C1 + C2 (Capacitor)
+I = Inductor
+Tierra = Ground
+
+Rt = R1 + R2 + R3 ... Rn
+
+Diodo <- Componente de Chapa
+Diodo -> Op Amp
+
+Earth Ground
+Chassis Ground
+Signal Ground
+
+no se forman
+
+Daño Tenere / OCT 26 CM
+Daño Tenere / Ro-Hahn por Familia

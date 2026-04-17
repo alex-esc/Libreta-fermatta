@@ -1,0 +1,17 @@
+Sensaciones psico-acústicas (cont.)
+
+ln 27
+ING
+sensaciones Psicoacusticas
+
+-percepcion } -Nvl/uca tiempo (fase)
+-intencion    } [dibujo de ondas] helmut Hass
+-tension       }
+               -30 ms como ventana
+               (25-30)
+
+Refuerzo sonoro -> envio -> Grabacion (mix) -> mezcla (RF) "Curva Hass" =
+
+* Enmascaramiento
+se pierden 6dB cada octava | white noise Pink Noise
+

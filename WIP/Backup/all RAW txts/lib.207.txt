@@ -1,0 +1,12 @@
+Métrica de sílabas
+
+Sílaba métrica: sílabas son alteradas por razones métricas
+* Sílaba
+Unión de 2 palabras cuando las vocales
+prefijo es/con
+* Según acento de intensidad en última palabra de verso
+Última = tónica, se crean +1 sílaba
+Penúltima = tónica, se llaman "llano"
+Antepenúltima = tónica, se crean -2 sílabas
+
+(Nota: El resto de la imagen contiene partituras musicales sin texto legible para transcribir).

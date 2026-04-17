@@ -1,0 +1,27 @@
+Resonadores Helmholtz
+
+Helmholtz
+
+donde una cavidad donde el aire interno es una masa resonante
+
+(Dibujo de diagrama con flechas indicando "out" y "in") -> material absorbente
+
+Reverberación acústa (RT 60)
+
+Reverb
+
+Sonido directo, luego reflexiones tempranas
+
+Tiempo de Reverb ("T") tiempo de el sonido, con fab menor o mas relajado Baja 60 dB
+
+T = 0.161 * (V / (S * a)) -> Volumen de habitacion (m3)
+                                 S * a = coef. de abs.
+                                 Area de superficie (m2)
+
+Impulso -> Early rep. -> Decay time
+(Dibujo de gráfica de decaimiento)
+-60 dB
+
+Sumatoria de superficies y areas de recepcion
+
+Hay RT 60, RT 20, RT 20, RT iv etc

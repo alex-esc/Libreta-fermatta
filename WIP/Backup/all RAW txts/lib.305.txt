@@ -1,0 +1,18 @@
+Prod. Mezcla (cont.)
+
+* Relación de volumen - Balance
+* Curva de percepción = Iso Fonicas
+* El oido lineal? Pulso
+* Sonido Repetitivo escondido/sonido - Masking temporal
+
+SD
+
+* Banda sonora: todo el audio de una película
+* ADR: auto. dialogue Replacement
+* Timecode SMPTE: HH:MM:SS:FF
+* AD-assistant director
+* Sonido repetitivo = reverb
+* Unidad logamen - DB
+* La fase en que punto del ciclo estamos
+* Guardar datos = Data Manager
+* Encargado de Gabin mezclar en set = Sound mixer

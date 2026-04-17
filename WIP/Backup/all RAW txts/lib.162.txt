@@ -1,0 +1,38 @@
+3 Ejercicios de cálculo de Intensidad de circuitos
+
+Ejercicio 2
+(Dibujo de circuito con fuente de 12V y resistencias R1=20 ohm, R2=40 ohm, R3=40 ohm)
+I = U / RT (T= 12 / (1/20 + 1/40 + 1/40)) = 18.75 A
+I1 = 12A
+I2 = 12A
+I3 = 12A
+I = 0.64A
+Rt = 18.75 ohm
+
+Ejercicio 2 (Variante)
+(Dibujo de circuito con fuente de 12V y resistencias R1=30 ohm, R2=100 ohm, R3=50 ohm)
+I = U / RT (T= 12 / (1/30 + 1/100 + 1/50)) = 18.75 A
+I1 = 12A
+I2 = 12A
+I3 = 12A
+I = 0.64A
+Rt = 18.75 ohm
+
+Ejercicio 2 (Variante 2)
+(Dibujo de circuito con fuente de 12V y resistencias R1=100 ohm, R2=100 ohm, R3=50 ohm)
+I = U / RT (T= 12 / (1/100 + 1/100 + 1/50)) = 26.7 mA
+I1 = 26.7 mA
+I2 = 26.7 mA
+I3 = 13.22 mA
+Iu = 10.459 mA
+Ie = 3.606 mA
+Rt = 448.3 ohm
+
+Ejercicio 2 (Variante 3)
+(Dibujo de circuito con fuente de 12V y resistencias R1=200 ohm, R2=400 ohm, R3=600 ohm, R4=100 ohm, R5=300 ohm)
+I = U / RT (T= 12 / (1/200 + 1/400 + 1/600 + 1/100 + 1/300)) = 148.31 ohm
+Rt = R1 + R2 + Rn = 448.314652 ohm
+Iu = 12 / 400 = 0.0309 A
+It = V / Rt = 12V / 448.314652 ohm = 0.0267 A
+Isrc = 12 / 1100 = 80.9 mA
+It = 26.7 mA

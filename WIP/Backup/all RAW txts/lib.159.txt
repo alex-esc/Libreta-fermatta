@@ -1,0 +1,5 @@
+Escalas Blues Mayor y menor
+
+Blues menor 1 b3 4 #4 5 b7
+
+Blues mayor 1 2 b3 3 5 6

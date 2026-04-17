@@ -1,0 +1,21 @@
+Tabla de ponderación de dB's A, B y C
+
+Curvas de ponderacion / Ruido de Piso
+FREQ-AMP / -electrico
+3 curvas / -acustico
+LA (bajos) dB spc / -distal
+LB (medios) 35-40
+LC (altos) 40-80
+80-120
+
+Curvas (dB SPL)
+Fq | A | B | C
+31.5 | -39 | -17 | -3
+63 | -26 | -9 | -1
+125 | -16 | -4 | 0
+250 | -9 | -1 | 0
+500 | -3 | 0 | 0
+1000 | 0 | 0 | 0
+2000 | +1 | 0 | 0
+4000 | +1 | -4 | -1
+8000 | +2 | -3 | -3

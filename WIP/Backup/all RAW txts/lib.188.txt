@@ -1,0 +1,25 @@
+Conducción de voces: Directo, Paralelo, Contrario, Oblicuo
+
+Ene 2 LM
+
+tipos de movimiento:
+Directo: 2 voces moviéndose en la misma dirección
+Paralelo: 2 voces a misma dirección con mismo intervalo
+Contrario: una sube y otra baja
+Oblicuo: una se mantiene y otra se mueve con un intervalo descendente
+
+voces:
+* notas de mayor apoyo
+* Regla de conducción:
+Contrario: evitar cruzamiento de conducción
+2 voces Directo y las inferiores suman la nota superior
+
+* evitar saltos de intervalos dim. o aug.
+* al inicio usar saltos mas cortos
+* mantener nota común entre acordes
+* evitar saltos muy grandes
+
+(Secuencia de notas/acordes en el dibujo):
+Ab - Eb - Gb - Db - Ab - Eb - Gb - Db
+Bb - F - Ab - Eb - Bb - F - Ab - Eb
+Db - Ab - B - F - Db - Ab - B - F

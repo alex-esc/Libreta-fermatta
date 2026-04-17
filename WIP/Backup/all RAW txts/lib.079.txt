@@ -1,0 +1,23 @@
+Paso 4 Power amp
+
+-13dbu - 8dbu = -21dbu
+in/out = -21dbu
+
+[10^(-21/10)] * (200) = 1.58w
+approx 9.6w
+
+-> Bocina de 4 ohm
+
+[Cuadro con anotaciones]:
+x2 amp 8ohm -> 4ohm
+x2 4ohm -> 8ohm = 3.2w
+= 2ohm -> 2ohm
+
+[Dibujo de bocina]:
+medi 89dbSPL
+20 * log(u/u0) = -14dbSPL
+@ 1m
+
+[Dibujo de fuente de sonido]:
+2m -> 89 - 14 = 75 dbSPL
+^ 75 dbSPL

@@ -1,0 +1,17 @@
+Ejemplo de SPL a distancia (cálculo de potencia acústica)
+
+una persona escucha 100 dBspc a 5 metros
+calcula la potencia acústica
+
+(1) 100 dBspc -> 100 dB SIL
+(2) I = [10^(dB SIL / 10)] (I0)
+I = (10^(100/10)) (1x10^-12)
+I = 0.01 * 1x10^-2 en w/m^2 -> I=0.01
+
+(3) S = 4 pi r^2
+S = 4 * pi * (5)^2
+S = 314.15
+
+(4) W = (I)(S)
+W = (0.01)(314.15)
+W = 3.1415...

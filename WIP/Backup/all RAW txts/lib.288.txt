@@ -1,0 +1,33 @@
+Ejemplo de cálculo de RT 60
+
+Suma de
+Indice Puclob
+
+L_form = 1 / (L_s * L_e) ..
+
+Speck on cable (pelo = canilla)
+
+RT60 = (0.16) * (Volumen < m3) / Sa <--- (Sa + Sa2 ... Sa)
+                                 <--- coef. absorb
+
+Ejemplo
+
+alto = 4
+largo = 6
+ancho = 3
+
+volumen = 4 x 6 x 3
+Vol = 72m3
+
+Piso = madera = 18 x 0.1 = (suma de absorcion)
+Pared = mason = esc..... = 9.9
+techo = cemento = 18 x 0.05 =
+
+(0.16) * (72m3 / 9.9) = 1.16 seg
+
+                                 ^
+                             absorcion
+
+Rt60
+0.4ms - 0.8ms
+"shadow"

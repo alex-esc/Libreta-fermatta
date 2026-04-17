@@ -1,0 +1,33 @@
+Más ejemplos de cálculo de estructura de ganancia
+
+ejercicio
+
+Fuente
+Puntual
+@ 20cm ----> mic ----> pre ----> fader BUS
+94 dBSpL    -54.5 dBu   +64 dB     (simbolo de unity)  -3 dBu
+@ 8cm       @ 1 Pa     (pre a 0)
+
+(control Room)
+----> Master ----> (control Room) ----> Power amp ----> (simbolo de altavoz)
+    -2 dBu          -8 dBu             100w @ 8 ohms   92 um
+                                                        110 dBSpL
+                                                        1w @ 1m
+
+20 log(8cm / 20cm) = -7.95 dB
+                    ~ -8 dB
+
+94 dBSpL - 8 dBSpL = 86 dBSpL < esto llega al mic (en SpL)
+
+86 dB = 1 Pa = 86 dBSpL - 94 dBSpL = -8 dBPL
+
+-54.5 dBSpL - 8 dBSpL = -62.5 dB < VOL output mic
+
+-> Preamp
+-62.5 dB + 64 dBu = 1.5 dBu
+
+-> Fader unity
+1.5 dB + 0 = 1.5 dB
+
+-> Bus
+1.5 dB - 3 dB = -1.5 dB

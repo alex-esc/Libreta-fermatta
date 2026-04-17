@@ -1,0 +1,24 @@
+Ley de Joule
+
+ING Nov 29 Joule
+ley de Joule I = V / R, VIR
+P = I * V ohm
+P -> watts (W)
+I -> Amper (A)
+P = I^2 * (R)
+V -> Volts (V)
+P = I^2 * R o P = V^2 / R
+
+P = V^2 / R, P = (12V)^2 / 20,000 ohm = 0.0072 W 12 ohms
+
+maquinaria
+High voltaje < 1000 V, 115 - 220 Kv
+Bajo voltaje 50 - 1000 volt
+
+Tierra Fisica
+tierra chato
+
+Signal Ground
+tierra de señal
+
+Punto de Ref. donde la señal. Por eso se debe un punto de Ref en una Carga para hacer mediciones de voltaje. Este punto es Tierra. V = 0 volts

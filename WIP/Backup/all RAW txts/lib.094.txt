@@ -1,0 +1,35 @@
+Formulas de potencia acústica en una fuente puntual
+
+Ingeniero
+
+W = (I)(S)
+potencia
+
+I_intensidad = W/m^2
+
+S_superficie = (4)(pi)(r^2)
+
+I = Pa^2
+
+Pa_REF = 2x10^-5 Pa
+
+I_REF = 1x10^-12 W/m^2
+
+dB_SIL = 10log(I_s / I_o)
+
+* dB_SPL = 20log(P_a / P_a_REF)
+
+Pa_s = [10^(dB_SPL / 20)] * (Pa_o)
+
+I_s = [10^(dB_SIL / 10)] * (I_o)
+
+Formula para usar Ref que te de el Problema
+
+Hablemos de potencia (W) (en Fuente Puntual)
+
+W = (I)(S)
+
+(1) dB_SPL -> SIL
+(2) SIL -> I
+(3) Sustituir distancia en Radio s = (4)(pi)(r^2)
+(4) Sustituye en W = (I)(S)

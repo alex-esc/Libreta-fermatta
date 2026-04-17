@@ -1,0 +1,39 @@
+Ejemplos de cálculo de Intensidad circuitos
+
+I = V / R , V = I * R
+R1 = 100 ohm
+RT = 300 ohm
+12V
+It = 0.04A
+
+0.12A
+V1 = R1 * I1 = (100) * (0.04) = 4V
+V2 = R2 * I2 = (200) * (0.04) = 8V
+I1 = 0.12A, I2 = 0.04A
+It = I1 + I2
+It = 0.12A + 0.04A = 0.16A (Nota: En la imagen el resultado escrito parece ser 0.18A, pero la suma de los valores mostrados es 0.16A)
+12V
+R1 = 100 ohm
+R2 = 200 ohm
+
+I = V / R , V = I * R
+12V
+R1 = 100 ohm
+R2 = 300 ohm
+It = 0.12A
+I1 = 0.12A
+I2 = 0.12A
+
+RT = 83.3 ohm
+I = 0.144A
+
+Rt = (100 * 300) / (100 + 300) = 75 ohm (Nota: El texto escrito en la imagen dice 83.3, aunque el cálculo matemático de esa serie daría 75)
+It = 12V / 83.3 = 0.144A
+
+V1 = I1 * R1 = 0.12A * 100 ohm = 12V
+I1 + I2 = It , I1 + I2 = 0.144A
+I1 = 12V / 100 = 0.12A
+I2 = 12V / 300 = 0.04A
+
+V2 = I2 * R2 = 0.04A * 200 ohm = 8V
+V3 = I3 * R3 = 0.04 * 300 = 12V (Nota: El texto escrito en la imagen dice 7.2V)

@@ -1,0 +1,27 @@
+Contrapunto modal Hard/soft rules: 1ra Especie
+
+Primera Especie 1:1
+
+(1) todos los bajos deben ser consonantes
+(2) notas bajos son consonantes (no mover como obligado, no mover paralelo y contrario)
+--> PC. (disonante)
+(3) no repetir notas
+(4) notas mayores del mismo intervalo
+(5) Skips < 50% del contorno notas
+(6) skips (saltos) son > 50% del contorno notas
+(7) no hacer secuencias de intervalos
+36 | 363
+
+SOFT Rules (Contrapunto suave)
+
+(1) Evitar desde 2 C.P. segunda
+(2) Evitar Uniones
+(3) Evitar skips similares ambas partes
+(4) Evitar mucha separacion entre voces (ej 12ta)
+(5) Cambiar de direccion despues de un skip grande (para no perder contorno melódico)
+
+SOFT
+
+(6) Corregir extremo del regocijo con G.C.
+(7) skip -> GC
+(8) procurar usar toda la escala modal cada 10-20 notas del cantus

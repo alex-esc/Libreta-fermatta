@@ -1,0 +1,29 @@
+Fórmulas de sensibilidad de Mic y dBs restantes
+
+dB +/- dB Restantes = dBv (mic level)
+dBv volts
+
+Fórmula de mic pre para llegar a line level
+
+@mix
+Lpre: dBmic level --> dBv Line level
+
+0 = ?
+unity dB
+en el Pre
+
+pensa lo SPECS!
+
+Ejemplo de instrumento acústico mic
+
+aplicacion
+15cm -> mic AKG
+75dB -> -34dB SPL
+@5m
+
+Ref
+75-10
+1pa
+75-10 = 65 dB SPL
+65 - 94 = -29 dB
+-34 - 29 = -63 dB <-- Output de MIC

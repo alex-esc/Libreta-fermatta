@@ -1,0 +1,19 @@
+Acordes hibridos (Slash-chords)
+
+LM 7Sep 22'
+
+*acorde hibrido: una triada (slash-chord) con Bajo en una nota no perteneciente al acorde
+
+* Dom Alt: acorde Dom contiene already del modo 7sep b9/b13
+
+* los hibridos son simples acordes. Una triade con una nota extra (bajo) no chord-tone, no confundir con una inversion, pero se definen por las notas del acorde.
+
+Los hibridos se nombran en funcion del Bajo, desde el bajo se indican los intervalos
+
+D/E E7(b9) B/C C# G/E
+
+-> simplificar acorde: @ (que escala? y que frech?)
+en hibrido 2 Ignorar Raiz duplicada
+bajo no 3 Sumar 3, b6 y enharmonicos
+falsa 4 forma timbrica con lo relativo
+5 re-escribir

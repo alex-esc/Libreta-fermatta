@@ -1,0 +1,29 @@
+Guitarras acústicas y púas de guitarra
+
+May 25 (EA) Vorge De-console,
+
+(Guitar) sweep + IR conb
+sweep Room
+
+Acoustics
+
+* clasica cuerdas Nylon
+* estarena (la akustik mas) cuerdas metal
+* electroacustica nylon/metal
+
+la textura tiene alma (soporte el mas!) , la
+textura tiene un cierto mas robuste.
+
+Puas / plumillas: XT T M XH |
+thin (T) 0.45mm, 0.70mm, 0.85mm, 1.2mm
+heavy (H) 0.45
+extrahavy (XH) 0.70
+medium (M) 0.85
+| 1.20
+
+materiales pua:
+* celuloide / poliester
+* nylon / Fortrex / Delrin
+* lexan
+* metal / ultem (ultem)
+* acrilico

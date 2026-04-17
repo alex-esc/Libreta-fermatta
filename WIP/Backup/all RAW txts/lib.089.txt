@@ -1,0 +1,22 @@
+Watts en la bocina
+
+wattage en Bocina
+
+CN -> x Omega
+Si los SL de las Bocinas y amp la cantidad de watts de salida del amp se mane,
+Si los SL de la Bocina se duplice -> 2 la salida del Amp (watts)
+
+AMP Bocina wattage AMP Bocina wattage
+n Omega n SL igual n Omega igual -> 2
+Omega + Omega -> 2 Omega Mayor menor igual -> 2
++ Omega Omega x2 x2
+
+Formulas de Bocina a escucha Humana
+
+Bocina sonido a escuchan distancia (xm) -> (x dB SPL @ distancia en M) specs
+
+10 log(x dB SPL / xm) = "B"
+20 log("B" * x dB SPL)
+
+20 log([10 log(x dB SPL / xm)]) = Perdida Final
+x dB SPL - Perdida = dB (escucha)

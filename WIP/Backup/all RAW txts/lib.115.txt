@@ -1,0 +1,17 @@
+Dominantes secundarios en tonalidades menores
+
+Dominantes secundarios en Menor (en Am menor)
+
+1) No es un Dominante. E7 -> Am7
+
+2) V7 / bIIm7s F# -> Bm7b5 (no existe)
+
+3) dom. secundaria dom (V7/bIIImaj) G7 -> Cmaj7 mixto a 1,3
+
+4) V7 / IVm7 A7 -> Dm7 mixto a 1, b13
+
+5) V7 / bIIm7 B7 -> Em7 mixto b4, b5
+
+6) V7 / bVIImaj C7 -> Fmaj7 mixto a 1, 13
+
+7) dom secundaria dom (V7/bVII) D7 -> G7 mixto a 1, 13

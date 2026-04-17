@@ -1,0 +1,34 @@
+TSC <- Soprano esta nota de la tonica
+
+SD3 <- Soprano es la 3ra de subdominante
+
+DT <- Soprano es la 5ta
+
+SD: subdominante nuevo con la 5ta en el numero
+
+G/C  AM/F  Eb  G/D    F/C   D/G
+(Acordes representados por notas en el pentagrama)
+
+Introducción a notas características (modales)
+
+notas caracteristicas
+
+los modos tienen tritono entre grados distintos
+
+jonico: 4-7
+dorico: b3-b6
+frigio: b2-b5
+lidio: 4-#1
+mixol: 3-b7
+locrio: b2-b5
+
+notas caract. de modos
+
+jonico  4
+dorico   6
+frigio   b2
+lidio    #4
+mixol    b7
+locrio   b5
+
+Estas notas de las 2 notas mas importantes ayudan a definir las cadencias caracteristicas de los modos

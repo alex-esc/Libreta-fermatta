@@ -1,0 +1,30 @@
+Duración de Reverb
+
+Plate: 2s
+Spring: 1s
+
+Introducción a Contrapunto
+
+Jan B (CM)
+Grados Ad Parametrum -> FUX
+
+Texturi:
+* mono-fónico: 1 melodia (unison, notes)
+* homo-fónico: melodia + acordes
+* polifonico: multiples melos (como un Canon)
+
+contrapunto: Estricto vs Libre
+
+modal y tonal
+
+consonancias perfectas | cons. imperfectas
+durus | C P | 3, 63
+2, 62 | 1 (unison) | 5, 66
+7, bt | S |
+4, b4(b) | 5
+
+* consonancias perfectas en C.P.: Prohibido mov. Plateado y simetr.
+v Contorno; obligado
+x Plateado; sinar
+
+x mas dificil a CP

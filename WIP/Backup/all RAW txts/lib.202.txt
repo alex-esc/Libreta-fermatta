@@ -1,0 +1,14 @@
+División de tercios de octava superior e inferior
+
+(tercios de Octava) [octava]
+Finf = Fc / (2^(1/3))  Finf = Fc / (2^(1/2))
+
+Fsup = Fc * (2^(1/3))  Fsup = Fc * (2^(1/2))
+
+ejemplo 1k ire, sup 3 de Oct
+Finf = 1000 / (2^(1/3)) = 793.7 Hz
+Fsup = 1000 * (2^(1/3)) = 1,259.9 Hz
+
+12 dB / 45 deg
+-18 / 90 deg
+-24 / 135 deg

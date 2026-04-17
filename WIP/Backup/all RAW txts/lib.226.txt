@@ -1,0 +1,30 @@
+Tipos de guitarras Eléctricas
+
+may 18
+Guitarras
+
+Cuerpos:
+- hueco
+- semi-hueco
+- lleno (solido)
+- solido, semi-solido
+- Brazo
+
+Detalle:
+- single coil
+- humbucker
+
+Fender Stratocaster:
+3 single coils
+(S4)
+
+Gibson - les paul:
+humbucker
+
+Fender Telecaster:
+3 single coils
+
+Gretsch - duet
+humbucker
+
+Ibanez - RG350

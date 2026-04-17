@@ -1,0 +1,20 @@
+on Mixo (mi, s, b) intono
+kevin johansen
+
+1 I7 (F) | Cad/ (cc)
+2 II m7 | cond.
+3 III m7 | cad/ (cc)
+4 IV m7
+5 V m7 (G)
+6 VII m7
+7 VII m7 Cad/ (G)
+
+# # # #
+# # # #
+# # # #
+# # # #
+
+E/D B/A Bb D/C C/Eb
+dict rit. 3
+
+(Notas musicales en pentagrama)

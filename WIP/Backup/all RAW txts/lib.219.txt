@@ -1,0 +1,38 @@
+Diseño de Recintos (Introducción al cálculo de modos)
+
+Acustica (Real)
+Apt 28
+C = 343
+
+for = n * (c / 2L) -> modos de resumen
+Donde:
+A = longitud del cuarto (m)
+freq = frecuencia (Hz)
+Largo = largo
+
+entre 0 y 20 n
+
+Análisis Modal formulas y procedimiento
+
+Análisis de Modos
+20 << f << 500
+
+Ejemplo: Ancho 5.9m
+largo 10.76
+alto 3.33m
+
+n | 5.9 | 10.76 | 3.33
+1 | 99.0Hz | 15.9Hz | 15.5Hz
+2 | 58.4m | 31.8 | 103
+3 | 37.22 | 42.82 | 144.5
+4 | 29.6d | 63.6 | 206
+5 | 24.63 | 79.7 | 257.5
+6 | 17.4m | 95.0 | 304
+7 | 203.9 | 111.5 | 360.
+8 | 232.6 | 127.8 | 412
+9 | 261.0 | 142.4 | 463.5
+10 | 290.7 | 154.4 | 515.Hz
+11 | 314.77 | 175.3 |
+12 | 348.4 | 191.2 |
+13 | 377.9 | 207.2 |
+14 | 406.9 | 223 |

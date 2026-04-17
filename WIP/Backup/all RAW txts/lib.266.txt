@@ -1,0 +1,40 @@
+Ejercicio de voicings Mecánicos
+
+Bb7
+Eb7
+F7b9
+Bb7
+
+Bb4
+Eb4
+F7b9
+
+Bb4
+Eb4
+F7b9
+
+Bb7
+Eb7
+F7b9
+Bb7
+Ab7(b13)
+G7(b9, b13)
+
+Ab
+Eb
+F7b9
+C7b9
+F7b9
+Bb7
+
+Ab
+Eb
+F7b9
+C7b9
+F7b9
+
+Bb
+Bb
+
+Bb 1-6 drop 2
+Bb 7-10 drop 2+4

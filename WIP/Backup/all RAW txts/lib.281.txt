@@ -1,0 +1,22 @@
+FP
+
+(1) Sample,
+(2) DCO digital Contoled Oscilator,
+(3) FM -> mod > 20Hz
+(4) Operadores: OSC, env, amp
+(5) Algunos en FM -> Radio de Op's
+(6) Waveshape: "Sinus"
+(7) Ganador: Gen de 10-30ms
+(8) Vocoder: analizan env de amplitud de dif burles de la voz para aplicar a otro sonido
+
+IA
+
+(1) Protoboard: Protoboard, Cierre, no soldar
+(2) Led: dado (con sola direccion)
+(3) Jumper: Cable y
+(4) Boss en Proto: en externo: linea rojo, azul y Conexion de Pilas
+(5) F total en paralelo
+(6) Pot A = log, "musical"
+(7) Pot tiene 3 terminales. A, C estan en tia resistencia
+(8) TRS vs TS: Shield + H + C es Bad
+(9) capacitor: almacena y libera energia en tiempos cortos

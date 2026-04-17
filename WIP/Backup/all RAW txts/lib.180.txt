@@ -1,0 +1,21 @@
+Conversión A-D/D-A multicanal
+
+Dee 1 FD
+DA con PCM
+Multiplexor -> Codificador
+Re-construcción -> de-samples (PAM)
+Anti-Image Filter
+Play Back
+
+"DA esta lende por un reloj"
+Jitter: inconsistencia de un reloj -> Distorsión
+Drift: error y remojo permanente
+Cade word BNC clock
+
+THO (ou) IMD not cool
+Token (ou) I/O PCM
+Data (ou) Playback
+Multiplexed (ou) Enl.
+Salida
+Entrada
+Comando de red sin relación o error

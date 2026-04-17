@@ -1,0 +1,26 @@
+Diseño de Resonador de Helmholtz (fórmulas)
+
+2010 Acoustic Helmholtz
+
+f0 = 200 * sqrt( (P/Dt) * % de perforacion )
+^             ^
+|             |
+freq          profundidad
+al            espesor (in, pulgadas)
+resonador
+
+f = f' + 0.8 * area_de_perforacion (in)
+^       ^
+|       |
+espesor real (in)
+
+tipo de perforacion: diametrico
+Contorno (A) -> 0.5 * Px * (d/Dt)^2  -> Kutta f
+
+tipo de perforacion: diametrico
+Contorno (B) -> 0.5 * Px * (d/Dt)^2
+
+Contorno (C) -> Px * 100 * (r / (W+P))
+
+Calcula
+Hi -> Gooing

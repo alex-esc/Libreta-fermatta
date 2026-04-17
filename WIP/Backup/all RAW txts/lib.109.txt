@@ -1,0 +1,21 @@
+Análisis Armónico
+
+iv7
+Bb | C7 | Fm | Ebm Ab7
+Dorico | mixo | eolico | Dorico | mixo
+9, #13 | 9, b13 | 9, 11 | 9, 13 | 9, 13
+
+II7/6 (V7/6)
+Bb7 | Gm7 | C7 | F7
+Dorico | mixo | Dorico | mixo
+9, #13 | 9, b13 | 9, 11 | 9, 13 | 9, 13
+
+VI7
+C/Ab | Eb | Dbmaj7 | C7 | Bb7
+Lidio aug | Sim dem | Lidio | Dorico | b7b6?
+9, #11 | b9, #9, #13 | 9, #b13 | 9, 11 | 9, #11, #13
+
+Repaso Escala Simétrica Disminuida
+
+Sim dim
+1 2 3 3 4 b5 b6 b7

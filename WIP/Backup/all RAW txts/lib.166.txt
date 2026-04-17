@@ -1,0 +1,19 @@
+Corriente Directa y Corriente Alterna
+
+corriente alterna
+Nov 15 ING
+corriente directa DC -> constante en 1 direccion
+corriente alterna AC -> cambia en 2 direcciones
+desbuble por ciclos v = 120 v f = 60 Hz
+
+Fórmulas en Serie y Paralelo de Intensidad, Voltaje, Resistencia
+
+Serie
+It = I1 + I2 + I3...
+Vt = V1 + V2 + V3...
+Rt = R1 + R2 + R3...
+
+Paralelo
+It = I1 + I2 + I3...
+Vt = V1 = V2 = V3...
+Rt = (1/R1 + 1/R2 + 1/R3)^-1

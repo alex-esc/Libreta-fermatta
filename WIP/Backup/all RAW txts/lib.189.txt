@@ -1,0 +1,24 @@
+Ley de Faraday (fórmula)
+
+Ene 3 ING ley de Faraday
+
+Un imán puede crear corriente eléctrica con movimiento
+el flujo de electrones y los campos magnéticos están
+muy relacionados
+
+Inducción electromagnética: el voltaje inducido en un
+circuito cerrado resulta directamente proporcional a
+la velocidad con que cambia en el tiempo el flujo
+magnético que atraviesa una superficie
+
+La fuerza electromagnética inducida en un C.A.
+es igual al negativo de la velocidad del tiempo
+del flujo magnético que recorre por el circuito
+
+Corriente <--> campo magnetico
+mas vueltas en bobina = mas corriente electrica si unen
+
+electromagnetismo: un conductor rodeado de una bobina
+con electrones genera campo magnetico
+
+EMF = - (dPhi / dt)

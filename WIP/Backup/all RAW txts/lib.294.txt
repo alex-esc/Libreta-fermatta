@@ -1,0 +1,20 @@
+Ciclos en escalas menores
+
+Ciclo 7 melódica
+
+Cm7 b7 b5 Am7 b5 F7 Eb7 Dm7 Cmaj7
+2 1 2 3 5 2 1
+
+Ciclo 4 Armónica
+
+Cm7 Fm7 Bdim7 G# dim7 Ab7 Dm7b5 G7 Cmaj7
+2 b7 b 2 # 5 R 2 R 2
+
+Acordes híbridos (Triad over Bass Note)
+
+Triad
+BN (Bass note) Ciclo 4
+G/C F/F B/E
+
+3-D9
+Cm7 Fm7 Bm7b5 Em7 Am7 Dm7 C7 C

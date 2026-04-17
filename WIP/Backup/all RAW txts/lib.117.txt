@@ -1,0 +1,30 @@
+Repaso efecto doppler cálculos y fórmulas
+
+Repaso Efectos psico acústicos
+
+Hass: dif. entre 2 S ms = 30 ms
+      filtro de peine
+
+Doppler: aparente cambio de tono (en movimiento)
+
+F_R = F_E * ((V_s + V_e) / (V_s - V_e))  <-- Vel Recibe
+       (V_s - V_e) / (V_s + V_e)          <-- Vel Emite
+
+Fuente Receptor    Fuente Emisor
+
+                    Vel sonido
+
+V_s = (TEMP) * (0.6) + REF
+REF = 331.4 m/s
+
+20 ms  F_R = 850 Hz
+       F_E = 344 m/s
+
+F_R <-- F_E (-)      F_R = F_E * (V_s - V_e) / (V_s + V_e)
+F_E <-- F_R (+)      F_R = F_E * (V_s + V_e) / (V_s - V_e)
+
+F_R -> F_E (-)       F_R = F_E * (1.081)
+no mas               F_R = 850 Hz * (1.081)
+
+F_R -> F_E (+)       F_R = 894.385
+no mas

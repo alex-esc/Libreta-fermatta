@@ -1,0 +1,55 @@
+Circuitos en Serie y en Paralelo
+
+NOTA 1: Circuitos en serie y paralelo
+
+I = V / R
+Rtotal = r1 + r2 + r3...
+
+I = V / R
+Rtotal = r1 + r2 + r3...
+R = 40 ohm
+I = 0.25 A (Nota: El texto original parece indicar un valor derivado de la operación)
+
+Circuito en paralelo:
+1/Rt = 1/r1 + 1/r2 + 1/r3...
+
+r1 = 100 ohm
+r2 = 30 ohm
+r3 = 20 ohm
+r4 = 90 ohm
+Rtotal = 37 ohm (aproximado por el trazo)
+
+I = V / R
+V = 6V
+Rtotal = 60 ohm
+I = 0.015 mA (Nota: El texto dice 0.015 mA, aunque matemáticamente sea distinto según los valores mostrados)
+
+r1 = 100 ohm
+r2 = 3/8 ohm
+r3 = 1/3 ohm
+Rtotal = 66.6 ohm
+I = V / R
+V = 4V
+I = 0.06 A (Nota: El texto muestra 0.06A)
+
+R = r1 + r2 + r3
+R = 100 + 30 + 300 ohm
+I = 3mA, 0.05A
+
+r1 = 100 ohm
+r2 = 200 ohm
+r3 = 300 ohm
+r4 = 400 ohm
+(1/100 + 1/200 + 1/300 + 1/400)^-1 = 54.545 ohm
+I = 0.165A, 165mA
+
+r1 = 100 ohm
+r2 = 200 ohm
+r3 = 300 ohm
+r4 = 400 ohm
+(1/100 + 1/200 + 1/300 + 1/400)^-1 = 54.545 ohm (repetido)
+
+R = 48 ohm
+I = V / R
+V = 9V
+I = 0.1975A, 187.5 mA

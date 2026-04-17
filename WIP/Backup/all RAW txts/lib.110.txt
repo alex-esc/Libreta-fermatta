@@ -1,0 +1,35 @@
+Fórmula Efecto Doppler
+
+PICO ACC.
+Efecto Doppler
+
+FR = FE * ((Vs + VR) / (Vs - VE))
+fuente receptor
+fuente emisor
+
+Vs = TEMP * (0.6) + REF
+
+(300Hz)
+fuente emision
+Receptor <-- (B)
+30 m/s
+
+TEMP = 21 C
+
+Vs = (21 C) * (0.6) + 331.4
+Vs = 344 m/s
+
+FR = 300Hz * ((344 m/s + 30 m/s) / (344 m/s - 0 m/s))
+
+FR = 300Hz * (374 / 344)
+
+FE = 300Hz * (1.08)
+FR = 326.16 Hz
+
+(B) FR = FE * ((Vs + VR) / (Vs - VE))
+fuente emision
+VS = 344 m/s
+
+FR = 300 * (344 + 0 / 344 - 20)
+FR = 300 * (344 / 324)
+FR = 318.95

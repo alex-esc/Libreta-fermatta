@@ -1,0 +1,22 @@
+Contrapunto: 3ra Especie (4:1)
+
+3a Especie
+Ratio 4:1
+LM
+[Nota: El texto contiene anotaciones sobre pulso consonante y disonante]
+
+- Poner Pulso Consonante
+- El Pulso puede ser disonante (consonancia y disonancia)
+- Ser Pulso Consonante (consonancia y disonancia)
+- Auto puede ser disonante
+
+CF alto: b3 4 5 6 / 8 b7 5 6
+CF bajo: b3 5 4 43
+
+"cambiata"
+
+[Dibujo de partitura/notación musical]
+Patin Cambule
+8 7 5 6
+3 4 6
+[Símbolos musicales y notas sin texto legible adicional]

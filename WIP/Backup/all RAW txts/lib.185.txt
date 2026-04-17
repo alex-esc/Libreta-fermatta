@@ -1,0 +1,35 @@
+Análisis de Nodos (circuitos)
+
+Analisis de Nodo ING Dec 13
+
+un punto donde Z (o más) Completen una resistencia en común
+
+nodo 2
+nodo 1
+
+It = I1 + I2 + I3
+Iq = (I1 + I2 + I3) - It
+
+I1 = I1 + I2
+Nodo Z
+I1 + I2 = I3 + I4
+nodo 3
+I3 + I4 = It
+
+V1 = 10V
+V2 = 1V
+R1 = 1k Ohm
+R2 = 100 Ohm
+
+"carga de voltaje"
+V1 = Vc1 + Vc2
+Vt = 10V - Iv = qv
+
+It = Vt / Rt = 0.0081A
+V1 = It * R1 = (0.008) (1000 52) = 8.191912
+
+V2 = It * R2 = (0.008) (100) = 0.8191912
+
+Vt = qv = Vc1 + Vc2
+qv = 8.19 + 0.81
+qv = qv

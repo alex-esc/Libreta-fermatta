@@ -1,0 +1,22 @@
+(1) Solder Mask: cubrir pistas de cobre, evita oxidacion, deja libres los PADS
+
+(2) acido Ferrico -> Revela PCB
+
+(3) 1 GND (pin 2) GND (pin 3) XLRs male/female
+
+(4) un cable no balanceado tiene 3 pines? Falso
+
+Voicings con Clusters
+
+LM Dec 12
+se usa el chord-scale correcto
+
+C#7 melodia
+(dibujo de clave de sol con notas)
+
+sonido C6
+(dibujo de clave de sol con notas)
+C6
+suena rub
+suena de ST
+evita llanto

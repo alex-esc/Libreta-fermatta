@@ -1,0 +1,23 @@
+Niveles de señal
+
+- Revisa temas Ingresar 6-10
+
+* Niveles de Señal
+- micro (-60 dBV -> -40 dBV) (ocup pre-amplificada)
+  0.01V -> 0.010V
+
+- Inst level (-25 dBV Pre -> Lin)
+  0.043 V
+
+- Line level (Consumer = -10 dBV, 0.316 V
+             Pro = +4 dBV, 1.277 V)
+
+- Spenter level +30 dBV, 24.5 V
+  semide en watts (w)
+
+
+Reflexión y Refracción
+
+Reflexion -> Reflection
+"Shell"
+Refraction -> (refracción)

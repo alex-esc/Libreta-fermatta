@@ -1,0 +1,18 @@
+Cálculo de ganancia Paso a paso
+
+Paso 1 Perdida de decibel
+20 Log (4/12) = -9.54
+approx -10
+98 dBspl - 10 dBspl = 88 dBspl
+
+Paso 2 Restar Input - Ref (ref)
+88 dB - (94 dB) = -6 dB
+seno/sin - diferencia
+-46 dB - -6 dB = -52 dB.
+
+Paso 3 Sumar / Restar cada uno
+-52 dB + 54 dB = +2 dB (Pre)
++2 dB + 0 = +2 dB (Unity)
+2 dB - 3 dB = -1 dB (Bus)
+-1 - 2 = -3 dB (Master)
+3 - 10 = -13 dB (CR ROOM)

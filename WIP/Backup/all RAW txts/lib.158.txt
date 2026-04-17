@@ -1,0 +1,26 @@
+Ri = 300
+
+9V -> [Resistencia 100] -> [Resistencia 300] -> [Resistencia 100] -> [Resistencia 200] -> [Resistencia 700]
+
+Ra = 400
+
+(1/100 + 1/200 + 1/700)^-1 = Rf = 60.8695 Ohm
+I = 9V / 60.8695 Ohm = 0.1478 A
+147.85 mA
+
+[Circuito con ramas en paralelo]
+Rama 1: 9V, 100 Ohm, 100 Ohm -> I1 = 9V / 200 Ohm = 45 mA (aproximado por el dibujo)
+Rama 2: 9V, 100 Ohm, 200 Ohm -> I2 = 9V / 300 Ohm = 30 mA (aproximado por el dibujo)
+Rama 3: 9V, 100 Ohm, 700 Ohm -> I3 = 9V / 800 Ohm = 11.25 mA (aproximado por el dibujo)
+
+(Nota: El texto escrito en la imagen para las corrientes parece indicar valores específicos que no coinciden exactamente con el cálculo estándar de las ramas mostradas, pero transcribo lo que dice el papel):
+
+9V / 60.8695 Ohm = 0.1478 A
+147.85 mA
+
+(Cálculo de resistencia equivalente de la parte inferior):
+(1/100 + 1/200) = 66.6
+100 + 66.6 = 166.6 Ohm
+
+It = 0.0540 A
+SUMA

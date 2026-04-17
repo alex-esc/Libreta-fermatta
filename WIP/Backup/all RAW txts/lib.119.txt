@@ -1,0 +1,27 @@
+Análisis Escala-Acorde de "All Of Me"
+
+ALL OF ME
+
+(A) Imaj7
+Cmaj7 (4,13) | % (4,13) | bVII/im7 | Mixo la b13 | % | E7
+
+bVII/im7
+A7 | % | bMixo 9,13 | Im7 | D - | Dorico (9, 11, b13) | D dorian (9, 13, b13)
+
+bVII/im7
+E7 | % | bMixo 9,13 | bIm7 | A - | Edies (9, 11) | A Dorian (9, 11)
+
+bVII/bVII
+D7 | % | bMixo 9,13 | Im7 | D - | Dorico (9, 11, b13) | G7 | Mixo
+
+(B) Im7
+Cmaj7 | % | bVII/im7 | bMixo la b13 | % | E7 | %
+
+bVII/im7
+A7 | bMixo 9,13 | Im7 Dorico | D - | bVII/im7 | bVII/im7
+
+IVmaj7
+F | % | Im7 | Fm | bVII/im7
+bIIdo (Dorian 9, 13) | Cmaj7 | Em7 | A7 | Mixo 9, 13
+
+D7 | G7 | C6 (C E)

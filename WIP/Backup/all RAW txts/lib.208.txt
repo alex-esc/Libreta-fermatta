@@ -1,0 +1,34 @@
+Tratamiento acústico de un control Room
+
+solamente Bass y mid
+250 Hz min (20) -> dB: ora
+2 a 20 3
+17.2m -> Sm de pred
+3
+Baja de perimetro (fregues)
+controler en un Control room
+30-40 dB este filo
+
+* ECO
+* Reverb
+* Pre-delay
+* Diffusion Waves
+acustico
+
+* تردد (freq)
+* volume
+* Correlate
+* Phase
+
+* controler masa (Highs)
+* Diffusion (Diffusion) (Highs) ORD, PRD
+* Reflection (Highs) -- Helmholtz
+* Absorber
+
+Abs
+Helm wike
+A/D
+Abs
+A/D
+A/D
+x Desejo de pared

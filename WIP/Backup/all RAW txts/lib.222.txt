@@ -1,0 +1,29 @@
+Overs
+
+- XY tot
+- musician 10s -> recorder mm
+- spaced pair 10s -> pin p/mic/track
+
+1.27m dejo en...
+
+ROOMS
+
+Blumlein -> pad gate Mas brillo, mas detalle
+XY -> moderate mas profundidad
+Spaced pair -> mas bajo
+
+Cálculo de RT 60
+
+RT 60 = (0.161 * V) / (S * (1 - alpha))
+
+V = volumen de recinto
+S = area superficial
+alpha = coeficiente de absorcion
+
+ejemplo 2
+
+cuarto de 7x5x3, la mitad de piso es alfombra la otra mitad duela
+
+techo alpha = 0.3 sabines
+pared alpha = 0.15 sabines
+alfombra alpha = 0.4 sabines

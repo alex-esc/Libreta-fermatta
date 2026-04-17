@@ -1,0 +1,18 @@
+Anatomia de una Bocina
+
+IA Anatomia de Bocina gener
+Cono
+Iman
+Canasta (comun) chassis
+bobina (bobina)
+bobina (corrugos)
+centro termo
+Dust cap "guarda polvo"
+
+Tipos de Bocinas
+
+tipos de bocinas
+Sub woofer 20 - 150HZ
+Woofer 50 HZ - 2KHZ
+Mid-woofer (eso - 2kHZ) (3k - 5K)
+Tweeter 2k - 20k

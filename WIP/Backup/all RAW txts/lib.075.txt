@@ -1,0 +1,38 @@
+Calculando Estructura de Ganancia (fórmulas)
+
+Mayo 9    Estructura de Ganancia
+
+-Input
+-Flujo de señal -> Ganancia no-lineal
+
+20 log(1 m / 0.00002 m)
+~ 94 dB u
+1 m = 94 dB SPL
+
+dB SPL x
+(-54 dB @ 1 m)
+
+Evento Puntual
+-54 dB + 4 dB = -50 dB
+
+Nivel de output en el preamp (mixer)
+
+@ 2m
+130 dB SPL -> mic -> Pre amp
+(F)  -54 dB @ 1 m      + 30 dB
+
+20 log(2 / 80) = -32
+
+5 (130 - 32 dB)
+= 98 dB SPL
+
+Channel Fader -> Master Fader
++ 15 dB -> -10 dB
+
+-50 dB + 30 dB + 15 dB - 10 dB
+= -15 dB
+
+amborde, luego el otro
+
+98 dB SPL - 94 dB = 4 dB SPL
+@ 1 m = 4 dB u

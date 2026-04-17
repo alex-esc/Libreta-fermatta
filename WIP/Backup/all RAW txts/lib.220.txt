@@ -1,0 +1,24 @@
+Forma Musical
+
+Forma Musical LM May 2
+
+Simple A, AAA
+Binario AB, AA BB
+Ternario ABA, ABC, AABBA
+Rondo AABA (32 bars)
+
+Little Son Roamer A A B A
+AABB AA | Dm7 | Db7 | Dm7 | Dm7 |
+Cantalope Island A A B A A
+AABG AA | Fm7 | Db7 | Dm7 | Fm7/x | X |
+Wayre Shuffle - 600 pitch
+AB | Cm7 | Fm7 | Fm7 | E7 | A#7 |
+Cherokee On Greg Poling Street
+AABA | ABAC | Pages will win
+AABB | ABAC | (Drums)
+
+(Notas adicionales en la parte inferior):
+m7 m7 m7 m7 
+Dm7 Fm7 Bb7 E7
+Bm7 A B Eb7 Db7 Ab7 G
+Sim SubV/V SubV/I

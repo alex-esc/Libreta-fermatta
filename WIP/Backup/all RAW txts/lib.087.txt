@@ -1,0 +1,20 @@
+Modulación Armónica
+
+LM Modulación
+
+* Pivote (usa acorde en común entre las 2 tonalidades)
+* Directo (sin pivote o reposo)
+* Preparado (251, con cadencia)
+
+tambien le puede usar IM para "preparar" una modulación
+
+(sub V7/V) I
+C07 bb7 Eb7 Ab07
+
+bVII7 II-
+Bb7 F-
+Lydico
+
+G7sus4 -> F07/G
+
+overjoyed F/G | Ab/G

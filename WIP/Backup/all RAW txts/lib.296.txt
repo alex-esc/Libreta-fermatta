@@ -1,0 +1,25 @@
+Estructura superior de menor melódica
+
+Min mel. (C)
+(9, 11, 13) (11, 13) (9, 11) (9, #11, 13) (9, 11, 13) (9 Bsus)
+Dm Am7 G Am7 G Bsus
+Cm7 Dm7 Em7 F7 G7 Am7 B7sus
+Cm Del. Dm 2 Eb 63 F Ly d 67 G Mixo 9/13 Al 49 Bb 7 Black (Alt)
+1 2 3 4 (wb) 5 6 7
+
+Homophonic Writing, recomendación de libros
+(última clase de Max)
+
+LM Homophonic Writing 27 FEB 20
+
+* Foreground
+* Midgard
+* Background
+
+Fuentes:
+* Contemporary Orchestration es Miller
+* Baritone chapel.
+* Study of Orchestration Sam P. Adler
+* Principles of Orchestration Kodaly
+* Complete Modern Orchestra Alfonso Girardo
+(A-Z)

@@ -1,0 +1,19 @@
+Fórmula de la ley de Ohm (Corriente, voltaje y resistencia)
+
+27 Sep. Ley de ohm
+I = V / R
+* corriente (I) = flujo de elec. (R) -> V. Amperios En ohmios
+* voltaje (V) = diferencia de potencial volts en dos puntos, tensión eléctrica
+* resistencia (R) = V / I ohms opuesto a (I)
+
+Watts = V * I Joules/s
+
+Armonía modal: Modos inestables (lidio y locrio)
+
+18 Sep. Los modos inestables:
+* lidio: no contiene 4ta (4to) debido a ser llamado (#4) y ser avoidable (tritono). ¿es "inestable"?
+* aunque es posible hacer prog. modales.
+* si siente que suena a lidio
+* lo de los acordes con #4 son cadenciales
+
+(Lista de notas/acordes al final de la imagen, no legibles como texto continuo)

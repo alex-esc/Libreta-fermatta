@@ -1,0 +1,30 @@
+Aquí tienes la transcripción literal del texto contenido en la imagen:
+
+Maj
+el acorde se construye con tritono 1/2 tono arriba
+de la raiz.
+Cm7 -> C7 "Cm7(b5)"
+Am7 -> A7 "Am7(b5)"
+|Em7 | Am7 |
+|Em7 | G/A |
+
+Re-Armonización, acordes Dominantes
+
+Dominantes
+tienen muchas opciones de re-armonizar
+estos dominantes tienen tendencias
+particulares
+V7
+V7b9
+AV7#5 (V7b5)
+AV7#9
+
+V7b9, si la melodia tiene 4/9 b13 Escala Sim Dom.
+tiene resolución natural a la quinta
+del sig acorde maj, min o Dom.
+G7b9 Cm9 G7b9 Cm9
+
+V7#9, resuelve 1/2 tono arriba
+Escala Men Mel. 1 Tono arriba
+Lidero b7
+9 #9 13

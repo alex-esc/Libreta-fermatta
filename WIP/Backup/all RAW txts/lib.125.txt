@@ -1,0 +1,28 @@
+Electricidad (propiedades)
+
+13 sep INDE
+Electricidad: fenómeno físico por movimiento de electrones e iones
+
+Existen:
+B-campo magnetico (ecuacion de Maxwell) -> Atomos:
+  electrones (-)
+  Neutrones (neutros)
+  Protones (+)
+
+Siempre hay tantos Neutrones como Protones (Isotopos: neutrones != protones)
+
+corriente electrica: flujo de electrones
+
+conductores: >= 4e valencia (1-4) = 54
+aislantes: <= 4e valencia (4-8) = 22
+semi-cond: 4e valencia (4) = 4
+
+valencia: cantidad de e en la capa de afuera
+valencia -> {atomos}
+
+los electrones pueden conducir o viajar pero en los conductores es mas facil, semi es mas duro y aislantes sumamente dificil
+
+en la tabla periodica se clasifican los elementos en grupos en:
+-aislantes = no-metales
+-semi = metales (oido)
+-conductores = metales

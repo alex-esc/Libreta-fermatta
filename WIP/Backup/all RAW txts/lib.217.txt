@@ -1,0 +1,31 @@
+Cálculo de tiempo de reverberación
+
+Rev DT2
+
+T = 0.161 * V / (Sa1 + Sa2) * ...
+
+en campo abierto el rev es nulo
+
+Formula Sabine y Eyring?
+
+T60 = 0.16 * V / [-X/ln(1-a1) + -Y/ln(1-a2) + -Z/ln(1-a3)]
+
+Reverberación "óptima" de salas (estudio vocal, musical, iglesias, etc.)
+
+Rev óptima = depende de volumen (m3) de la sala
+
+(a) Estudio Radio (voz)
+(b) Sala conferencia
+(c) Estudio Radio (musica)
+(d) Sala de conciertos
+(e) Iglesias
+
+Fuente: Architectural Acoustics William J. Kavanaugh
+
+V = 10m * 12m * 6m -> vol = (10 * 12 * 6) = 720 m3
+
+Cuba "B" = 0.05
+
+después absorción superficie
+
+S = (12*10) + (12*10) + (12*6) + (12*6) + (10*6) + (10*6) = 504 m2

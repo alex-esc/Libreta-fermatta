@@ -1,0 +1,24 @@
+Forma Blues (quick 4)
+
+12 Bars:
+| C7 | F7 | C7 | C7 |
+| F7 | C7 | C7 | C7 |
+| G7 | F7 | C7 | G7 ||
+
+Sistemas lineales, no-lineales & THD
+
+FD No 10
+Lineal - no Lineal
+Sistema lineal = constante, proportional input -> output
+no lineal = no proportional
+
+THD (total harmonic distortion) mide distorsion (multiples oneros) pasan en dist emitidos
+porcentaje de error
+
+IMP (Input) -> THD
+Output
+
+IMP (Input modulation Distortion)
+* distorsion de amplitud o de fase que hace que se armen una señal
+
+Cipring: probe THD y/dar

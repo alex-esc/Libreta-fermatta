@@ -1,0 +1,32 @@
+SMPTE, LTC & MTC
+
+LTC = 2400 bits/s FD is sep
+SMPTE = en Frames (Frames)
+MTC: MIDI time code
+
+ProTools HUI MIDI protocolo
+
+controlador con
+Pro-tools
+HUI
+controlador midi
+programar movimientos
+(keypads)
+
+Bit depth (cont.)
+
+44.1 kHz
+16 bit = 96 dB SPL
+24 bit = 114 dB SPL
+32 bit = 150 dB SPL
+(dent) -> was modulation
+gain
+así hay presión y
+tan to range jumps
+
+8 bit
+16 bit
+24 bit
+8 bit
+word length 16
+2^16 = 65,536

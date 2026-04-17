@@ -1,0 +1,16 @@
+Contrapunto modal Hard/soft rules: 2nda Especie
+
+[2da ESPECIE] 2:1
+
+Hard: 1,2,5,6 Reglas de 1ra Especie aplican aqui, menos:
+
+(1) Unbeat 1/2 note puede ser disonante si es nota de paso = 1 -> 2, i -> 2
+dd | dd | dd (En la misma يكون passing note keyter (uper, lower))
+
+(2) Skips de o a una disonante estan prohibidos.
+
+(3) No usar notas repetidas (prohibido)
+
+(4) Podemos empezar con silencio de blanca, la blanca tiene que ser C.P.
+
+Soft

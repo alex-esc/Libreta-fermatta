@@ -1,0 +1,38 @@
+Absorción Acústica (reflexión, absorción, difusión)
+
+Absorción Acustica
+acustizacion interna vs aislamiento
+
+<- Reflexion: ley de Snell
+- absorcion: imitar, atrapar energia en un cerco (absorby, parse)
+- difusion: redistribuir energia en espacio (dispersion)
+
+Coeficiente de Absorción
+
+absorcion "transducing"
+energia sonora -> absorcion -> calor
+(energia calorifica / conversion de energia mecanica)
+
+I_i: Intensidad sonora incidente
+I_r: Int. sonora reflejada
+I_a: Int. sonora absorbida
+I_t: I. sonora transmitida
+
+diferencia entre presion
+energia sonora -> dep. abs
+coeficiente de absorcion (alpha)
+entre 0 - 1
+100m2, core. abs 80m2
+
+I_i = I_r + I_a + I_t
+
+alpha = I_a / I_i = (I_i - I_r) / I_i
+
+absorcion por m2
+
+(Diagrama de flechas:
+I_i entra a un bloque.
+De ese bloque salen tres flechas:
+I_r hacia afuera/atras.
+I_a hacia abajo.
+I_t hacia adelante.)

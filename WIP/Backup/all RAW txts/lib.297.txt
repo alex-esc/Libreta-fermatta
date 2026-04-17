@@ -1,0 +1,24 @@
+Intro de audio para cine (primera clase de Leo)
+
+Sondo Directo (SD)
+12/3/24
+
+Picture lock -> diseño sonoro
+-> editar diálogos
+-> stems de elementos ("concur")
+-> limpieza de dialogo (dialogo)
+-> sonidos extras (ambiental, ruidos, FX)
+-> foley
+-> Sound FX
+
+Ca luego Remezcla en on dub header
+
+SD -> editor -> Edit -> sound -> Bandh sync
+on set  sync      cut       design     sinaga
+
+PT HD
+:2.5.0
+
+Ctrl + [ 2 ]
+Ctrl + [ 9 ] vid
+Ctrl + [ 3 ] track code
