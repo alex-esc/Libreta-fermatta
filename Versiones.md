@@ -11,7 +11,7 @@ PDF contiene / cambios:
 
 
 	
-## Ver 2 [PDF][2]
+## Ver 2 [(PDF)][2]
 
 **Agregado temario al final del documento**, 5 Enero 2025
 
@@ -21,7 +21,7 @@ PDF contiene / cambios:
 * temario / indice / TOC al final del PDF con temas disponibles para buscar con CTR+F (win) o CMD+F (mac)
 	
 	
-## Ver 3 [PDF][3]
+## Ver 3 [(PDF)][3]
 
 **Temario con hipervínculos**, 9 Enero 2025 - 16 Noviembre 2025
 
