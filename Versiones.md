@@ -41,3 +41,5 @@
 * __Ver 6__ Próximamente:
 	
 	* Desarrollo de temas, agregar explicaciones en lugar de solo apuntes
+	
+
