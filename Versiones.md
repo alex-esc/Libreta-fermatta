@@ -7,9 +7,9 @@
 * __Ver 3__ [PDF][3]
 	- Temario con hipervínculos, 9 Enero - 16 Noviembre 2025
 	
-[1]: https://drive.google.com/file/d/1Ee8vjQEsjw6FaN6Bn9-xf1XF04mAJQgb/view?usp=sharing
-[2]: https://drive.google.com/file/d/1dlE8j0WvyoHPHkcBNlUkPgrlR5G9ac8p/view?usp=sharing
-[3]: https://drive.google.com/file/d/1IDB0Tk22WWDwWbG-eVCEteD-S2IeHfkJ/view?usp=sharing
+[1]: https://github.com/alex-esc/Libreta-fermatta/releases/tag/lib
+[2]: https://github.com/alex-esc/Libreta-fermatta/releases/tag/lib2
+[3]: https://github.com/alex-esc/Libreta-fermatta/releases/tag/lib3
 
 * __Ver 4__ actualmente en progreso... 
 	- Transcribiendo imágenes a texto manualmente: (305 pág totales)
