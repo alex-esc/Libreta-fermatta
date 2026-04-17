@@ -1,6 +1,6 @@
 # Versiones & Cangelog
 
-* __Ver 1__ [PDF][1]
+## Ver 1 [*(PDF)*][1]
 	- Libretas escritas en papel y escaneadas, 12 Enero 2023 a 4 Enero 2025
 * __Ver 2__ [PDF][2]
 	- Agregado temario al final del documento, 5 Enero 2025
